@@ -1,11 +1,6 @@
 ---
 title: "essay"
 ---
+Author: Phan Ngoc Quynh Huong xinh dep
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Note: Anh yeu em ca chutttt
