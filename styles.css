@@ -2,3 +2,12 @@
 .navbar {
   background-color: #C8102E !important;
 }
+
+/* justify all paragraphs unless inside .center-text */
+p {
+  text-align: justify;
+}
+
+.center-text p {
+  text-align: center !important;
+}

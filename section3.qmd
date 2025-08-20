@@ -10,3 +10,25 @@ Vietnam’s power tools market is growing steadily, driven by the country’s ex
 -	The construction equipment segment reached 6.12 thousand units in 2023 and is projected to grow to 7.90 thousand units by 2029, with a CAGR of 4.35% (Arizton).
 -	Vietnam’s broader construction market is expected to grow from USD 68.75 billion in 2024 to USD 110.42 billion by 2030, at a CAGR of 8.1% (Mordor Intelligence).
 -	Demand for cordless power tools is gradually rising in urban areas due to increasing concerns over safety, mobility, and noise reduction, especially in HVAC and indoor applications.
+
+*PESTEL Analysis:*
+
+| **Factor**       | **Relevance to Milwaukee Vietnam**                                      |
+|------------------|-------------------------------------------------------------------------|
+| **Political**    | Regulations on tool safety, import tariffs, and workplace standards.    |
+| **Economic**     | Fuel cost vs. electricity, rising input costs, price-sensitive purchasing. |
+| **Social**       | Deep discounting mindset; legacy usage of gasoline/corded tools.        |
+| **Technological**| Increased interest in lithium battery tools and smart diagnostics.      |
+| **Legal**        | Safety compliance, warranty enforcement, and local standards.           |
+| **Environmental**| Cordless tools offer cleaner, quieter operation; aligns with green trends. |
+
+Milwaukee Vietnam at a glance:
+
+-	Entered the Vietnamese market in 2019
+-	Operates via 58 distributors and 124 sub-dealers nationwide.
+-	Offers over 300 SKUs, primarily in cordless drills, wrenches, saws, and accessories.
+-	Estimated annual revenue in Vietnam: 326 billion VND
+-	Year-over-year revenue growth (2024 vs. 2023): 32%
+-	Key focus segments: HVAC contractors, electricians, infrastructure teams.
+-	Current market stage: early penetration, with limited top-of-mind awareness outside of trade circles.
+

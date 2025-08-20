@@ -1,6 +1,36 @@
 ---
-title: "essay"
+title: "Final Project"
+image: "logo.png"
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 30em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:pnq.huong0111@gmail.com
+    - text: Facebook
+      icon: facebook
+      href: https://www.facebook.com/pnqhuong
+    - text: Phone
+      icon: phone
+      href: tel:+84778690087
+    - text: Resume
+      icon: file-text
+      href: CV.pdf
 ---
-Author: Phan Ngoc Quynh Huong xinh dep
+<div class="center-text">
+<p style="font-size:28px; font-weight:bold;">
+Repositioning Milwaukee in Vietnam: Strategic Responses to Brand Perception and Price Sensitivity in the Professional Tools Market
+</p>
 
-Note: Anh yeu em ca chutttt
+<p style="font-size:20px; font-weight:bold;">
+Professor Jean-Pierre Baeyens
+</p>
+
+<p style="font-size:20px; font-weight:bold;">
+Students: Phan Ngoc Quynh Huong & Tran Thi Thanh Ha
+</p>
+</div>
+
+

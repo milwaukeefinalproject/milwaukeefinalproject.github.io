@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Final Project"
+  title: "<img src='milwaukeelogo.png' style='height:40px;'>"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - introduction.qmd
+      - section1.qmd
+      - section2.qmd
       - section3.qmd
       
 format:
