@@ -15,9 +15,6 @@ about:
     - text: Phone
       icon: phone
       href: tel:+84778690087
-    - text: Resume
-      icon: file-text
-      href: CV.pdf
 ---
 <div class="center-text">
 <p style="font-size:28px; font-weight:bold;">
@@ -33,4 +30,5 @@ Students: Phan Ngoc Quynh Huong & Tran Thi Thanh Ha
 </p>
 </div>
 
+{{< video https://www.youtube.com/embed/eU-aIi92AcM?start=38 width=560 height=315 >}}
 

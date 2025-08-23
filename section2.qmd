@@ -6,6 +6,51 @@ title: "Introduction"
 
 Milwaukee is a well-known power tool brand in many countries. It is famous for high-quality cordless tools used by professionals. However, in Vietnam, the brand has not grown as expected. This is not because of product problems, but because of how people see the brand. Many Vietnamese workers are not familiar with Milwaukee, or they think it is a Chinese brand. Also, some believe the tools are too expensive. In a market where price and trust are important, this makes it difficult for Milwaukee to compete. This project was developed to help the brand improve its image and attract more users in Vietnam.
 
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+library(leaflet)
+library(sf)
+library(rnaturalearth)
+library(dplyr)
+library(countrycode)
+
+branches <- tibble::tibble(
+  country = c("United States","Canada","Mexico","Brazil","Chile","Argentina",
+    "United Kingdom","Ireland","Norway","Sweden","Finland","Denmark",
+    "Netherlands","Belgium","Luxembourg","France","Germany","Austria","Switzerland",
+    "Spain","Portugal","Italy","Greece",
+    "Poland","Czechia","Slovakia","Hungary","Romania","Bulgaria",
+    "Slovenia","Croatia","Serbia","Bosnia and Herzegovina","North Macedonia","Albania",
+    "Turkey","Ukraine",
+    "Israel","United Arab Emirates","Saudi Arabia","South Africa",
+    "China","Hong Kong","Taiwan","Japan","South Korea",
+    "India","Thailand","Vietnam","Malaysia","Singapore","Philippines","Indonesia",
+    "Australia","New Zealand")
+) %>%
+  mutate(iso3 = countrycode(country, "country.name", "iso3c"))
+
+world <- ne_countries(scale = "medium", returnclass = "sf") %>% st_make_valid()
+world_data <- world %>%
+  mutate(has_branch = iso_a3 %in% branches$iso3)
+
+pal <- colorFactor(palette = c("#f0f0f0", "#C8102E"), domain = c(FALSE, TRUE))
+
+leaflet(world_data) %>%
+  addProviderTiles("CartoDB.Positron") %>%
+  addPolygons(
+    fillColor = ~pal(has_branch),
+    fillOpacity = 0.85,
+    weight = 0.3,
+    color = "white",
+    label = ~name_long,
+    highlightOptions = highlightOptions(weight = 2, color = "#666", bringToFront = TRUE)
+  ) %>%
+  addLegend(position = "bottomright",
+            colors = c("#C8102E", "#f0f0f0"),
+            labels = c("Has branch", "No branch"),
+            opacity = 0.85,
+            title = "Milwaukee Tool Presence")
+```
 ## Brand and market context
 
 Milwaukee is an American company known for advanced cordless tools used in industries like construction, HVAC, and electrical work. In Vietnam, the tool market is already very competitive. Brands like Bosch, Makita, and Dewalt are better known and trusted by local users. Vietnamese workers often care about cost and will choose tools that seem more affordable, even if they are lower in quality. Also, there is confusion about Milwaukee’s origin. Some people think it is Chinese, which lowers trust. This makes it harder for the brand to explain why its tools are worth the higher price.

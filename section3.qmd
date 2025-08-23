@@ -31,4 +31,96 @@ Milwaukee Vietnam at a glance:
 -	Year-over-year revenue growth (2024 vs. 2023): 32%
 -	Key focus segments: HVAC contractors, electricians, infrastructure teams.
 -	Current market stage: early penetration, with limited top-of-mind awareness outside of trade circles.
+Sao khong len ta
 
+## Competitor snapshot
+
+Test diagram
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(ggplot2)
+library(ggimage)
+library(moments)
+
+cleanup <- theme(panel.grid.major = element_blank(),
+                 panel.grid.minor = element_blank(),
+                 panel.background = element_blank(),
+                 axis.line.x = element_line(color = "black"),
+                 axis.line.y = element_line(color = "black"),
+                 legend.key = element_rect(fill ="white"),
+                 text = element_text(family = "serif", size = 14),
+                 plot.title = element_text(face = "bold", hjust = 0.5))
+
+freq_percent <- function(x) {
+  freq <- table(x)
+  percentage <- prop.table(freq)*100
+  percentage <- round(percentage, 2)
+  result <- data.frame(
+    value = names(freq),
+    Frequency = as.vector(freq),
+    Percentage = as.vector(percentage)
+  )
+  return(result)
+}
+
+
+# Data: put your logos in a folder (e.g., "images/")
+brands <- data.frame(
+  brand      = c("Milwaukee","DeWalt","Bosch","Makita"),
+  price      = c(8.6, 7.8, 7, 6),
+  durability = c(8.8, 7.2, 6, 6.2),
+  logo       = c("image/milwaukeelg.png",
+                 "image/dewaltlg.png",
+                 "image/boschlg.png",
+                 "image/makitalg.png"),
+  size = c(50, 50, 50, 50)
+)
+
+ggplot(brands, aes(price, durability)) +
+  geom_hline(yintercept = 6.6, color = "grey55", linewidth = 0.7) +
+  geom_vline(xintercept = 6.5, color = "grey55", linewidth = 0.7) +
+  geom_image(aes(image = logo), size = 0.18, asp = 1) +
+  coord_cartesian(xlim = c(4,9), ylim = c(4.5,9), expand = FALSE) +
+  labs(x = "Price (Low → High)", y = "Durability (Low → High)",
+       title = "Market Positioning by Price and Durability") +
+  cleanup + 
+  theme(
+    axis.text.x  = element_blank(),
+    axis.text.y  = element_blank(),
+    axis.ticks   = element_blank()
+  )
+```
+
+Test pie chart
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(ggplot2)
+library(dplyr)
+
+# Data
+budget <- data.frame(
+  category = c(
+    "Paid Media (FB, TikTok, YouTube)",
+    "Influencer / KOL / KOC Activation",
+    "On-ground Activation (RedTest)",
+    "POS & Retail Support",
+    "Content Production",
+    "CRM / Zalo Engagement",
+    "AI Integration / App One-Key",
+    "Tracking, Reporting & Contingency"
+  ),
+  percent = c(32, 18, 16, 10, 9, 6, 5, 4)
+)
+
+
+# Pie chart
+ggplot(budget, aes(x = "", y = percent, fill = category)) +
+  geom_col(width = 1, color = "white") +
+  coord_polar(theta = "y") +
+  geom_text(aes(label = paste0(percent, "%")),
+            position = position_stack(vjust = 0.5), size = 4, family = "serif") +
+  labs(title = "Estimated Total Budget: $880K USD", x = NULL, y = NULL, fill = "Category") +
+  cleanup
+
+```
