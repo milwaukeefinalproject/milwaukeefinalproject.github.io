@@ -12,6 +12,8 @@ website:
       - section1.qmd
       - section2.qmd
       - section3.qmd
+      - section4.qmd
+      - section5.qmd
       
 format:
   html:

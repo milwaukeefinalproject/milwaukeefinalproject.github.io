@@ -4,7 +4,7 @@ title: "Introduction"
 
 ## Project rationale
 
-Milwaukee is a well-known power tool brand in many countries. It is famous for high-quality cordless tools used by professionals. However, in Vietnam, the brand has not grown as expected. This is not because of product problems, but because of how people see the brand. Many Vietnamese workers are not familiar with Milwaukee, or they think it is a Chinese brand. Also, some believe the tools are too expensive. In a market where price and trust are important, this makes it difficult for Milwaukee to compete. This project was developed to help the brand improve its image and attract more users in Vietnam.
+Milwaukee is a well-known power tool brand in many countries. It is famous for high-quality cordless tools used by professionals. However, in Vietnam, the brand has not grown as expected. This is not because of product problems but because of how people see the brand. Many Vietnamese workers are not familiar with Milwaukee, or they think it is a Chinese brand. Also, some believe the tools are too expensive. In a market where price and trust are important, this makes it difficult for Milwaukee to compete. This project was developed to help the brand improve its image and attract more users in Vietnam.
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -53,4 +53,38 @@ leaflet(world_data) %>%
 ```
 ## Brand and market context
 
-Milwaukee is an American company known for advanced cordless tools used in industries like construction, HVAC, and electrical work. In Vietnam, the tool market is already very competitive. Brands like Bosch, Makita, and Dewalt are better known and trusted by local users. Vietnamese workers often care about cost and will choose tools that seem more affordable, even if they are lower in quality. Also, there is confusion about Milwaukee’s origin. Some people think it is Chinese, which lowers trust. This makes it harder for the brand to explain why its tools are worth the higher price.
+Milwaukee is an American company known for advanced cordless tools used in industries like construction, HVAC, and electrical work. In Vietnam, the tool market is already very competitive. Brands like Bosch, Makita, and Dewalt are better known and trusted by local users. Vietnamese workers often care about cost and choose tools that seem more affordable, even if they are lower in quality. Also, there is confusion about Milwaukee’s origin. Some people think it is Chinese, which lowers trust. This makes it harder for the brand to explain why its tools are worth the higher price.
+
+## Problem statement
+
+Milwaukee has three main problems in the Vietnamese market:
+- Many people do not know the brand well.
+- Customers think the tools are too expensive.
+- The brand is often mistaken for a Chinese brand, not an American one.
+These problems affect how workers and businesses see Milwaukee. Even though the tools are very good, the brand is not growing as fast as expected.
+
+## Objectives and Scope
+
+This project has the following goals:
+
+<div class="center-text">
+<p style="font-weight:bold;">
+Main Goal: Reposition Milwaukee as the top American tool brand for Vietnamese professionals
+</p>
+</div>
+Focus: Correct origin confusion and shift focus from price to long-term value. Highlight U.S. heritage, superior engineering, and durability to build trust and prove premium status.
+
+<div class="center-text">
+<p style="font-weight:bold;">
+Second Goal: Encourage Product Trial and Purchase by Showing Clear Benefits
+</p>
+</div>
+Focus: Overcome price concerns through hands-on demos. Show how Milwaukee tools offer clear advantages in safety, efficiency, and long-term savings. Direct trial proves their worth
+
+<div class="center-text">
+<p style="font-weight:bold;">
+Third Goal: Build a Loyal Community and Generate Real User Stories
+</p>
+</div>
+Focus: Use peer recommendations and user content to build trust and loyalty. Empower users to become brand champions through their real-world experiences, driving organic growth and retention.
+

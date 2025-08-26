@@ -1,0 +1,105 @@
+---
+title: "Strategy Development"
+---
+
+## Communication Objective
+
+**Objective 1**: Reposition Milwaukee as a high-performance, American-engineered cordless solution built for professionals.
+
+**Priority 1: Brand positioning**
+
+- Focus on shifting perception from “overpriced” to “long-term professional value.”
+- Drive awareness of U.S. heritage, durability, and ecosystem advantage (M12/M18 platform).
+
+**Objective 2**: Drive product trial and conversion among target tradespeople through demo-based and trade-in activations.
+
+**Priority 2: Conversion & Trial**
+
+- Remove barriers to entry with on-site testing, promotions, and first-time incentives.
+- Move beyond passive awareness to action.
+
+**Objective 3**: Foster community advocacy and peer-led social proof to build trust and retention.
+
+**Priority 3: Loyalty & Advocacy**
+
+- Empower users and KOCs to share hands-on experiences.
+- Strengthen user belief through real user content, not advertising.
+
+## Target Audience
+
+**Primary Target (End-Users – Pull Strategy): Professional Tradespeople and Technicians**
+
+This group includes experienced workers in HVAC, electrical, and construction fields who are the ultimate users of power tools.
+
+- Typically, men aged 25–45, hands-on, and often working in physically demanding environments.
+- Most are self-employed or work for small contractors with limited budgets but clear performance expectations.
+- They prioritize durability, battery life, and ease of handling, especially in challenging Vietnamese conditions (e.g. heat, dust, humidity).
+- Peer influence and real-world testing strongly affect their tool choice.
+- They value tools that can help them finish jobs faster, safer, and with fewer breakdowns.
+
+**Secondary Target (Retailers & Wholesalers – Push Strategy): Retail Gatekeepers & Store Managers**
+
+This includes authorized resellers, store owners, and purchasing decision-makers in wholesale and retail hardware environments.
+
+- Often aged 35–55, with years of experience in distribution or retail operations.
+- Their top priorities are sales margin, stock turnover, and after-sales support.
+- They tend to recommend brands they trust or those with higher push incentives.
+- If convinced of Milwaukee’s value, they can play a key role in introducing the brand to end-users.
+- They are more influenced by profitability, warranty support, and brand credibility than technical specs alone
+
+## Messaging Strategy
+
+Milwaukee's challenge in Vietnam is not product performance but misperception. The core of this messaging strategy is to reposition Milwaukee not only as a tool but as a professional partner built on American innovation and trust.
+
+<div class="center-text">
+**Milwaukee: RedPower. Superior Technology, The Professional's Partner**
+</div>
+
+**"Superior Technology"**: Instead of directly stating "American engineering" or "U.S. heritage," this phrase implies advanced innovation, cutting-edge techniques, and high quality. These are key strengths of Milwaukee and align with the objective of highlighting "superior engineering."
+
+**"The Professional's Partner"**: This phrase positions Milwaukee not just as a tool but as a reliable companion. It directly supports the objective to "increase trust and interest" and "build a loyal community," subtly suggesting an established, global brand of quality without specific geographical ties. It also aids in shifting perception from "expensive" to "valuable" and "long-term investment."
+
+Milwaukee aims to position itself in Vietnam as a high-performance cordless tool brand, trusted by professionals and rooted in American engineering excellence. The revised brand message reflects both its global legacy and local relevance. We applied the Benefit Ladder framework as below:
+
+*Feature–Benefit Ladder*
+
+| **Level**              | **Example**                                                        |
+|--------------------|----------------------------------------------------------------|
+| **Feature**        | M18™ battery platform with brushless motor                     |
+| **Functional Benefit** | Longer runtime, less overheating, fits many tools             |
+| **Emotional Benefit**  | I feel confident and in control on the job                   |
+| **Brand Value**        | Milwaukee helps professionals work smarter, not harder       |
+
+## Channel Planning
+
+Given Milwaukee’s positioning as a professional-grade, high-performance tool brand—and the strong presence of legacy behaviors in the Vietnamese market—channel planning must go beyond awareness to drive education, conversion, and brand reassurance. Channels are selected based on their ability to match Milwaukee’s segmented objectives: reach potential users, build trust, and enable product trial or demonstration.
+
+**Key Channel Roles and Rationale**
+
+- *Facebook (Owned & Paid)*: Still dominant in Vietnam across B2C and B2B interactions. Ideal for lead generation, demo event promotion, and content retargeting. Highly relevant for working-class male professionals aged 25-45.
+
+- *TikTok (Paid & Earned)*: Leverages emotional storytelling and product showcase. Especially effective for building intrigue, demonstrating product use cases in short-form video, and amplifying user-generated content.
+
+- *Zalo (Owned)*: Popular among field contractors and site managers; used for CRM and demo sign-ups. Integration with messaging supports direct nurturing.
+
+- *YouTube (Owned & Paid)*: Hosts long-form review and tutorial content for electricians, HVAC specialists, and industrial technicians. Especially effective in the consideration and decision phases.
+
+- *Retail & On-ground activations (Earned & Owned)*: Key for physical trial of cordless tools. Activations at job sites, workshops, and B2B hardware expos help overcome category unfamiliarity.
+
+- *Influencer & Trade KOL networks (Paid/Earned)*: Micro-experts (craftsmen, site engineers) are trusted voices. Collaboration should focus on trust-building and education, not just reach.
+
+**Channel Mapping by Funnel Stage:**
+
+
+| **Funnel Stage**      | **Main Channels**                                | **Objectives**                                  |
+|----------------|----------------------------------------------|---------------------------------------------|
+| **Awareness**      | TikTok, YouTube Ads, Facebook Ads             | Generate intrigue and initial recall         |
+| **Consideration**  | YouTube reviews, Zalo, Influencers            | Educate on product benefits                  |
+| **Purchase**       | Facebook retargeting, Zalo CRM, Retail Demos  | Trigger conversion                           |
+| **Loyalty**        | Zalo push, Workshop invites, FB Groups        | Nurture users and encourage advocacy         |
+
+
+
+
+
+
