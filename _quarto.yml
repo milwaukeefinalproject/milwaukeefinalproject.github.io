@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-  resources: CV.pdf
+  resources:
+   - styles.css
 
 website:
   title: "<img src='milwaukeelogo.png' style='height:40px;'>"
