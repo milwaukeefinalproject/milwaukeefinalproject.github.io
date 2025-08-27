@@ -130,3 +130,37 @@ To drive Milwaukee’s growth in Vietnam, the communication strategy focuses on 
 **Strategic Implication**
 
 Mr. Đăng represents Milwaukee’s primary pull audience. He is the professional who must experience and validate “Red Power” before committing. Mr. Tập represents the secondary push audience. He is the retail decision-maker who ensures Milwaukee is recommended and available at point-of-sale. By targeting both personas in parallel, Milwaukee can close the loop between awareness, trial, and conversion in Vietnam.
+
+## Media and POEM Integration
+
+To effectively reposition Milwaukee in Vietnam, a balanced media mix is required. The Paid–Owned–Earned (POEM) framework ensures that the brand can achieve broad reach, control its messaging, and build authentic advocacy [(Table 8)](#tb8). This integration is critical for moving professionals from awareness to trial and ultimately to long-term loyalty.
+
+::: {#tab-POEM}
+<a id="tb7"></a>*Table 8. Media Mix Overview*
+
+| **Media Type** | **Channel(s)**                                 | **Role / Objective**                                       | **Key Tactics**                                                                            |
+| -------------- | ---------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Paid**       | Targeted Social Media Ads (Facebook, YouTube)  | Generate awareness, drive demos, retarget interested users | Hyper-target trade groups and job titles (e.g., electricians, HVAC); content retargeting   |
+|                | Google Search Ads                              | Capture high-intent users researching tools                | Target keywords such as *“máy khoan pin Milwaukee”*, *“dụng cụ điện cầm tay Mỹ”*           |
+|                | Native Advertising on Industry News Sites      | Blend promotion with credibility                           | Partner with Vietnamese construction & engineering news portals                            |
+|                | E-commerce Platform Ads (Shopee, Lazada, Tiki) | Increase visibility where price-sensitive buyers search    | Direct traffic to official Milwaukee product listings or dealer stores                     |
+| **Owned**      | Localized Website / Landing Pages              | Communicate U.S. heritage, innovation, and relevance       | Dedicated Vietnamese website with localized imagery, testimonials, “About Us” section      |
+|                | Zalo Official Account                          | CRM, promotions, direct nurturing                          | Broadcast product updates, tips, and exclusive offers; activate Zalo Shop features         |
+|                | YouTube Channel                                | Enhance consideration via long-form reviews                | Product demos, how-to guides, competitor comparisons, factory tours (Vietnamese narration) |
+|                | Knowledge Hub / Blog                           | Position Milwaukee as industry authority                   | Articles on maintenance, safety, industry trends, success stories                          |
+| **Earned**     | PR with Trade Publications                     | Build credibility, secure product reviews                  | Engage with Vietnamese trade magazines for features and interviews                         |
+|                | Industry Association Partnerships              | Direct access to professionals, build trust                | Host workshops, sponsor training sessions, support industry events                         |
+|                | UGC Contest (*RedVoice. Your Choice.*)         | Amplify peer advocacy                                      | Encourage video/photo submissions of tool use; offer prizes and feature winners            |
+|                | Job Site Case Studies                          | Demonstrate measurable impact                              | Collaborate with contractors to publish case studies on efficiency, safety, and ROI        |
+
+::: 
+
+**Integration Synthesis**
+
+This POEM mix creates a cohesive ecosystem:
+
+- Paid media generates awareness and captures immediate demand.
+- Owned media ensures Milwaukee controls its story, emphasizing American heritage and tool reliability through localized content.
+- Earned media builds credibility and advocacy, amplifying authentic voices of professionals and industry partners.
+
+Together, these channels support Milwaukee’s three communication objectives: Brand Truth (credibility), Proof in Action (trial and conversion), and Community Power (advocacy and loyalty).
