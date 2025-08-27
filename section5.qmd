@@ -6,52 +6,127 @@ title: "Execution Plan"
 
 Campaign Slogan: **"Unleash the Red Power. Repower Your Ambition."**
 
-Key Campaign Idea: **Milwaukee Red Power Unleashed Tour**
+The flagship campaign is the *Milwaukee Red Power Unleashed Tour*, a multi-city experiential activation designed to bring Milwaukee directly to professionals. By combining on-ground demos, digital storytelling, and community-led content, the campaign makes “Red Power” tangible while correcting misperceptions, driving trial, and building advocacy.
 
-The core campaign idea is a dynamic, multi-city experiential tour, bringing "Red Power" directly to professionals. This immersive, high-impact event integrates elements from previous campaigns, enabling participants to genuinely **"Unleash the Red Power"** and **"Repower Their Ambition"** through direct, tangible engagement.
+The campaign is structured around the three strategic pillars outlined earlier: Brand Truth, Proof in Action, and Community Power.
 
-Its core objectives are threefold:
-
-- Correct Brand Perception & Build Trust: We'll do this by offering direct, high-quality "Red Power" experiences, really showing its true origin and top-notch qualities.
-- Drive Product Trial & Conversion: The goal here is to make it easy for pros to try and adopt immediately through hands-on engagement and special offers.
-- Foster Community & Advocacy: This means building a strong community and encouraging pros to champion the brand by creating memorable shared experiences and places for them to connect.
-
-**Objective 1: Correct Brand Perception & Build Trust**
-
-This objective aims to establish Milwaukee's credibility by showcasing its distinctive "Red Power" (rooted in "Superior Technology"), which enables professionals to "Repower" their work, solidifying its role as "The Professional's Partner."
+<div class="center-text">
+<p style="font-weight:bold;">
+**Objective 1: Brand Truth — Correct Perception & Build Trust**
+</p>
+</div>
 
 - **Campaign Module**: RedStories. Real Glories.
 - **Keyhook**: "Witness the Red Power: Real Stories, Real Impact."
-- **Target Audience (TA)**: 
-  - Main: 25–45 y/o male workers; 
-  - Sub: Aspiring team leads.
-- **Channels**: YouTube, Facebook, TikTok.
-- **Tactics Execution**: Produce compelling docu-style storytelling videos featuring actual customer transformations. These narratives will vividly showcase how Milwaukee's "Superior Technology" and distinctive "Red Power" help professionals "Repower" their work by achieving new levels of safety, speed, and efficiency. Focus on authentic stories that implicitly clarify brand origin through demonstrated unique quality and reliability.
-- **Expected Impact**: Significantly enhanced brand credibility and reputation; improved perception of Milwaukee's unique quality and true origin; increased emotional resonance and deeper trust in Milwaukee as "The Professional's Partner" that delivers "Red Power."
+- **Target Audience**: Male tradespeople aged 25–45 (primary), aspiring team leads (secondary).
+- **Channels**: YouTube, Facebook, and TikTok.
+- **Tactics**: Produce docu-style storytelling videos featuring authentic user transformations. Content will highlight how Milwaukee’s *Superior Technology* delivers speed, safety, and durability, while subtly clarifying American origin through demonstrated quality and reliability.
+- **Expected Impact**: Improved credibility and brand trust; stronger recognition of Milwaukee’s true origin and premium status; deeper emotional connection with professionals.
 
-**Objective 2: Drive Product Trial & Conversion**
-
-This objective focuses on directly demonstrating how Milwaukee's "Superior Technology" delivers "Red Power," enabling users to "Repower" their work, facilitating hands-on experience and driving purchases to embrace "The Professional's Partner."
+<div class="center-text">
+<p style="font-weight:bold;">
+**Objective 2: Proof in Action — Drive Trial & Conversion**
+</p>
+</div>
 
 - **Campaign Module**: RedTest. RedBest.
 - **Keyhook**: "Feel the Red Power: Experience Efficiency. Repower Your Work."
-- **Target Audience (TA)**: 
- - Main: Mid-career technicians; 
- - Sub: Jobsite users skeptical of cordless tools.
-- **Channels**: On-ground activations, Facebook Live, TikTok.
-- **Tactics Execution**: Deploy mobile demo trucks to key locations for hands-on product trials, allowing professionals to feel the unique "Red Power" firsthand. Organize timed tool competitions that vividly showcase the raw strength, speed, and efficiency derived from Milwaukee's "Superior Technology." Offer attractive rewards like rental vouchers or social media shoutouts to encourage active participation and conversion, proving the "Repower" effect on efficiency.
-- **Expected Impact**: Direct product experience leading to increased trial rates and overcoming initial price objections; significant generation of qualified leads; accelerated initial purchases by demonstrating tangible long-term value and immediate benefits of Milwaukee's "Red Power" in "Repowering" their tasks.
+- **Target Audience**: Mmid-career technicians (primary), jobsite workers skeptical of cordless tools (secondary).
+- **Channels**: On-ground activations, Facebook Live, and TikTok.
+- **Tactics**: Deploy branded demo trucks across key cities, hosting hands-on trials and tool competitions to showcase strength, speed, and efficiency. Offer first-time incentives (rental vouchers, bundle discounts) to lower price barriers and accelerate adoption.
+- **Expected Impact**: Higher trial participation; improved demo-to-purchase conversion; reduced price objections through tangible proof of performance and long-term ROI.
 
-**Objective 3: Foster Community & Advocacy**
-
-This objective empowers users to share their positive experiences with Milwaukee's "Red Power" (enabled by "Superior Technology") and its ability to "Repower" their work. It actively encourages participation, strengthening the bond with "The Professional's Partner," and promoting authentic peer-to-peer recommendation.
+<div class="center-text">
+<p style="font-weight:bold;">
+**Objective 2: Objective 3: Community Power — Foster Advocacy & Peer Trust**
+</p>
+</div>
 
 - **Campaign Module**: RedVoice. Your Choice.
 - **Keyhook**: "Your Voice, Our Red Power: Repower the Community."
-- **Target Audience (TA)**: 
-  - Main: Facebook/TikTok active blue-collar workers;
-  - Sub: Peer influencer technicians.
-- **Channels**: Owned social platforms (Facebook, TikTok), dedicated user-generated content submission channels.
-- **Tactics Execution**: Launch compelling UGC campaigns encouraging users to submit videos of their tool tips, product reviews, or daily work showcases. The content should highlight how Milwaukee's "Red Power" (its distinctive high performance) helps them "Repower" their daily tasks and overcome challenges. Implement content boosting strategies for wider reach; facilitate community voting or contests for the most impactful content to drive engagement.
-- **Expected Impact**: Increased brand loyalty and deep user engagement; generation of highly authentic social proof through peer recommendations; creation of a vibrant and active user community, leveraging collective voices to significantly "Repower" the brand's organic reach and credibility with the power of the "Red" community.
+- **Target Audience**: Blue-collar workers active on Facebook and TikTok (primary), peer-influencer technicians (secondary).
+- **Channels**: Owned social media platforms, dedicated UGC portals.
+- **Tactics Execution**: Launch a user-generated content (UGC) campaign encouraging professionals to share tool tips, jobsite showcases, and product reviews. Introduce community voting and recognition contests to amplify the most impactful content.
+- **Expected Impact**: Increased loyalty and engagement; authentic peer-to-peer recommendations; creation of a vibrant Milwaukee community that amplifies organic reach and credibility.
 
+**Strategic Role**
+
+Together, these three modules deliver an integrated campaign where Brand Truth builds credibility, Proof in Action drives adoption, and Community Power sustains advocacy. The Red Power Unleashed Tour will therefore reposition Milwaukee not just as a tool brand, but as a professional partner that empowers Vietnamese tradespeople to repower their work and ambition.
+
+## Customer Persona Profiles
+
+To drive Milwaukee’s growth in Vietnam, the communication strategy focuses on two core personas — one primary end-user and one secondary retail gatekeeper. They play distinct but interconnected roles: tradesmen influence trial and adoption, while retailers influence availability and recommendation.
+
+**Persona 1 – Mr. Đăng, The Skilled Tradesman**
+
+**Demographic**
+
+- Male, 32 years old
+- Based in Bình Dương industrial zones
+- Mid-income, self-employed or part of 3–10 man contractor teams
+
+**Psychographics**
+
+- Takes pride in skill, reputation, and tools
+- Values reliability, power, and long-term investment
+- Skeptical of “trendy” brands; prefers peer recommendations
+- Price-sensitive but willing to pay if ROI is clear
+
+**Behavioral Traits**
+
+- Researches tools via YouTube, Facebook groups, and in-store demos
+- Follows technicians and repair channels on social media
+- Responds well to live demos and word-of-mouth from coworkers
+- Waits for promotions or bundle offers before purchasing
+
+**Pain Points**
+
+- Frustrated by short-lifespan tools and frequent breakdowns
+- Dislikes heavy, noisy, or overheating equipment
+- Distrusts brand claims — insists on testing tools firsthand
+
+**What Converts Him**
+
+- Seeing performance live (demo competitions, trials)
+- Trusting authentic peer stories over advertisements
+- Smart trade-in programs and bundle offers
+- Proof of long-term savings (less downtime, less fuel cost, fewer repairs)
+
+**Persona 2 – Mr. Tập, The Retail Gatekeeper**
+
+**Demographic**
+
+- Male, 45 years old
+- Based in Ho Chi Minh City
+- Owns or manages a hardware store / distributor network
+
+**Psychographics**
+
+- Focused on profit margin, sales velocity, and after-sales support
+- Avoids high-risk inventory or “hard-to-sell” brands
+- Values supplier reliability, training, and promotional support
+- Loyalty depends on incentives and relationships, not just product quality
+
+**Behavioral Traits**
+
+- Strongly influenced by distributor incentives and sales visits
+- Recommends brands that balance profit with reputation
+- Engages in trade shows, vendor demos, and factory visits
+- Often stocks multiple brands to spread risk
+
+**Pain Points**
+
+- Products that move slowly off shelves
+- Brands that fail to invest in customer education or POS support
+- High return rates or customer complaints
+
+**What Converts Him**
+
+- Confidence in product durability to reduce returns
+- Attractive incentive structures and co-branded promotions
+- Practical support: training, POS materials, demo kits
+- Visible demand created by media presence and end-user advocacy
+
+**Strategic Implication**
+
+Mr. Đăng represents Milwaukee’s primary pull audience. He is the professional who must experience and validate “Red Power” before committing. Mr. Tập represents the secondary push audience. He is the retail decision-maker who ensures Milwaukee is recommended and available at point-of-sale. By targeting both personas in parallel, Milwaukee can close the loop between awareness, trial, and conversion in Vietnam.
