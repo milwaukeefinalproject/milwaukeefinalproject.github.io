@@ -11,3 +11,40 @@ p {
 .center-text p {
   text-align: center !important;
 }
+
+/* Table base style */
+table {
+  border-collapse: collapse;
+  margin: 1.5em auto;
+  width: 95%;
+  font-size: 0.95rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* Header row */
+th {
+  background-color: #C8102E;   /* Milwaukee Red */
+  color: #ffffff;
+  padding: 12px;
+  text-align: left;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Table body */
+td {
+  border: 1px solid #eee;
+  padding: 10px 14px;
+  vertical-align: top;
+}
+
+/* Alternating row colors */
+tr:nth-child(even) td {
+  background-color: #f9f9f9;
+}
+
+/* Hover effect */
+tr:hover td {
+  background-color: #f1f1f1;
+}

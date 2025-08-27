@@ -2,9 +2,15 @@
 title: "Introduction"
 ---
 
-## Project rationale
+## Project Rationale
 
-Milwaukee is a well-known power tool brand in many countries. It is famous for high-quality cordless tools used by professionals. However, in Vietnam, the brand has not grown as expected. This is not because of product problems but because of how people see the brand. Many Vietnamese workers are not familiar with Milwaukee, or they think it is a Chinese brand. Also, some believe the tools are too expensive. In a market where price and trust are important, this makes it difficult for Milwaukee to compete. This project was developed to help the brand improve its image and attract more users in Vietnam.
+Milwaukee is a leading global brand for professional cordless power tools. It is known for innovation, durability, and productivity in markets such as North America and Europe. However, in Vietnam, the brand has not reached the same level of success. The issue lies not in product quality but in brand perception.
+
+The Vietnamese tools and machines market is expanding. In 2025, it is projected to generate US$1.50 billion in revenue, with an annual growth rate of 2.77% through 2029 [(Statista, 2025)](#1). This growth is supported by the country’s push to modernize infrastructure and attract foreign investment, creating strong opportunities for international brands that can build trust and deliver long-term value.
+
+Milwaukee faces three key barriers in this market. Many workers are not aware of the brand. Some mistake it for a Chinese company, which lowers trust. Others see the price as too high compared to competitors. In a price-sensitive environment where peer trust matters, these barriers prevent wider adoption.
+
+This project is designed to address those gaps. Its aim is to reposition Milwaukee as a premium American brand in Vietnam. The focus is on shifting attention from price to long-term value, correcting origin confusion, and strengthening trust among professional users. Achieving this will allow Milwaukee to capture growth, build stronger dealer networks, and secure a leading position in the market.
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -51,40 +57,85 @@ leaflet(world_data) %>%
             opacity = 0.85,
             title = "Milwaukee Tool Presence")
 ```
-## Brand and market context
 
-Milwaukee is an American company known for advanced cordless tools used in industries like construction, HVAC, and electrical work. In Vietnam, the tool market is already very competitive. Brands like Bosch, Makita, and Dewalt are better known and trusted by local users. Vietnamese workers often care about cost and choose tools that seem more affordable, even if they are lower in quality. Also, there is confusion about Milwaukee’s origin. Some people think it is Chinese, which lowers trust. This makes it harder for the brand to explain why its tools are worth the higher price.
+## Brand and Market Context
 
-## Problem statement
+Milwaukee is an American company known for advanced cordless power tools used by professionals in construction, Heating, ventilation, and air conditioning (HVAC), and electrical work. Globally, the brand is positioned as a premium choice, competing on innovation, safety, and durability [(Milwaukee, 2021)](#2).
 
-Milwaukee has three main problems in the Vietnamese market:
-- Many people do not know the brand well.
-- Customers think the tools are too expensive.
-- The brand is often mistaken for a Chinese brand, not an American one.
-These problems affect how workers and businesses see Milwaukee. Even though the tools are very good, the brand is not growing as fast as expected.
+In Vietnam, the professional tools market is crowded with well-established brands [(Awasthi, 2024)](#3). Bosch is recognized for German engineering and an extensive dealer network. Makita appeals with Japanese reliability at accessible prices. Dewalt leverages its American heritage and strong reputation in heavy-duty applications. These competitors are better known locally and often perceived as safer choices.
+
+Vietnamese users are highly price sensitive [(Trang et al., 2023)](#4). Many consumers prioritize immediate affordability over long-term durability. Purchase decisions are also shaped by peer recommendations and visible proof of performance, such as tool demonstrations on job sites. In this context, Milwaukee faces two disadvantages: "limited brand familiarity and higher prices compared to local expectations", according to Hoang Thai, Product Brand Manager at Milwaukee Vietnam.
+
+Compounding the issue, there is confusion about the brand’s origin. Some Vietnamese workers believe Milwaukee is Chinese, which lowers trust and reduces willingness to pay a premium. As a result, Milwaukee struggles to explain the value of its tools and to position itself as a credible premium option.
+
+## Product Portfolio
+
+Milwaukee offers a broad ecosystem of professional tools designed for demanding applications. Its portfolio is built around cordless systems that emphasize power, safety, and productivity.
+
+The [M18™ System](#m18) is Milwaukee’s flagship 18V platform. It delivers heavy-duty performance for construction, electrical, and mechanical work. With hundreds of compatible tools powered by the same battery platform, it provides long-term value for professional users who invest in the ecosystem [(Figure 1)](#m18).
+
+![Figure 1. Milwaukee M18 Platform](image/m18.png){#m18 fig-align="center"}
+
+The [M12™ System](#m12) targets compact and portable applications. These 12V tools are designed for tight spaces, service work, and trades that require lightweight solutions without compromising on performance [(Figure 2)](#m12).
+
+![Figure 2. Milwaukee M12 Platform](image/m12.png){#m12 fig-align="center"}
+
+The [MX FUEL™ System](#mx) extends Milwaukee’s innovation to light equipment. It replaces petrol-powered solutions with battery technology, offering safer, cleaner, and quieter operation on job sites [(Figure 3)](#mx).
+
+![Figure 3. Milwaukee MX FUEL Platform](image/mx.png){#m12 fig-align="center"}
+
+Alongside these platforms, Milwaukee also provides a wide range of hand tools, accessories, and storage solutions. These products reinforce the brand’s ecosystem strategy, where professionals can depend on Milwaukee across multiple categories.
+
+## Problem Statement
+
+Although Milwaukee has a strong global reputation, its performance in Vietnam is constrained by perception gaps rather than product limitations. According to Jane Pham, Commericial Director, there are three key issues:
+
+1. **Low brand awareness**: Many Vietnamese professionals are unfamiliar with Milwaukee compared to competitors such as Bosch, Makita, and Dewalt. This reduces consideration during the purchase process.
+
+2. **Price–value gap**: Milwaukee tools are often viewed as expensive relative to local expectations. In a highly price-sensitive market, consumers focus on upfront costs rather than long-term durability and productivity gains.
+
+3. **Origin misperception**: Some workers mistakenly believe Milwaukee is a Chinese brand. This weakens trust and undermines the brand’s American heritage, which is central to its premium positioning.
+
+These challenges are perception-driven and directly limit adoption, dealer confidence, and ecosystem growth. Without addressing them, Milwaukee risks losing relevance in Vietnam’s expanding professional tools market.
 
 ## Objectives and Scope
 
-This project has the following goals:
+This project aims to reposition Milwaukee as the leading premium American tool brand in Vietnam by addressing key perception barriers. The objectives are framed around three strategic pillars:
 
 <div class="center-text">
 <p style="font-weight:bold;">
-Main Goal: Reposition Milwaukee as the top American tool brand for Vietnamese professionals
+Objective 1: Brand Truth
 </p>
 </div>
-Focus: Correct origin confusion and shift focus from price to long-term value. Highlight U.S. heritage, superior engineering, and durability to build trust and prove premium status.
+- Correct origin misperceptions by emphasizing Milwaukee’s U.S. heritage, advanced engineering, and durability.
+- Build awareness of the brand as a premium choice for professionals, distinct from competitors.
 
 <div class="center-text">
 <p style="font-weight:bold;">
-Second Goal: Encourage Product Trial and Purchase by Showing Clear Benefits
+Objective 2: Proof in Action
 </p>
 </div>
-Focus: Overcome price concerns through hands-on demos. Show how Milwaukee tools offer clear advantages in safety, efficiency, and long-term savings. Direct trial proves their worth
+- Reduce price sensitivity by highlighting long-term value through tool demonstrations, proof-of-performance campaigns, and dealer activations.
+- Encourage hands-on experience that showcases advantages in safety, efficiency, and durability.
 
 <div class="center-text">
 <p style="font-weight:bold;">
-Third Goal: Build a Loyal Community and Generate Real User Stories
+Objective 3: Community Power
 </p>
 </div>
-Focus: Use peer recommendations and user content to build trust and loyalty. Empower users to become brand champions through their real-world experiences, driving organic growth and retention.
+- Foster a professional user community that shares authentic stories, recommendations, and experiences.
+- Leverage peer influence and user-generated content to strengthen trust, retention, and organic growth.
 
+<div class="center-text">
+<p style="font-weight:bold;">
+Scope
+</p>
+</div>
+- The project focuses on Milwaukee’s core cordless platforms (M18™, M12™, and MX FUEL™) and their adoption among Vietnamese professionals in construction, electrical, HVAC, and related trades. The scope covers a two- to three-year horizon, with an emphasis on repositioning strategies, trial-driving initiatives, and community-building programs.
+
+----
+### References
+- <a id="3"></a>Awasthi, S. (2024). *Vietnam Power Tools Market Outlook to 2030*. [https://www.kenresearch.com/industry-reports/vietnam-power-tools-market](https://www.kenresearch.com/industry-reports/vietnam-power-tools-market)
+- <a id="2"></a>Milwaukee. (2021). *The Milwaukee Story*. [https://www.milwaukeetool.com/Company/Milwaukee-Story](https://www.milwaukeetool.com/Company/Milwaukee-Story)
+- <a id="1"></a>Statista. (2025). *Tools & Machines - Vietnam*. [https://www.statista.com/outlook/cmo/diy-hardware-store/tools-machines/vietnam](https://www.statista.com/outlook/cmo/diy-hardware-store/tools-machines/vietnam)
+- <a id="4"></a>Trang, N. T., Kopp, S. W., Tu, V. H., & Yabe, M. (2023). Urban Vietnamese consumers’ preferences for attributes of sustainably produced rice. *Journal of Consumer Marketing*, *40*(3), 286–304. [https://doi.org/10.1108/JCM-12-2020-4334](https://doi.org/10.1108/JCM-12-2020-4334)

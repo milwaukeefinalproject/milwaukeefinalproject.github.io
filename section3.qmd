@@ -2,125 +2,181 @@
 title: "Situation Analysis"
 ---
 
-## Market overview
+## Market Overview
 
-Vietnam’s power tools market is growing steadily, driven by the country’s expanding construction, infrastructure, and manufacturing sectors. Segments such as HVAC, MEP, and civil works are becoming more professionalized, opening the door for advanced cordless technologies. Key highlights are presented below:
+Vietnam’s professional tools market is expanding in line with construction, infrastructure, and manufacturing growth. Key trades such as HVAC, Mechanical, Electrical, and Plumbing systems (MEP), and civil works are becoming more professionalized, which creates strong demand for cordless technologies.
 
--	The power tools market in Vietnam was valued at approximately USD 1.3 billion in 2023 (Ken Research).
--	The construction equipment segment reached 6.12 thousand units in 2023 and is projected to grow to 7.90 thousand units by 2029, with a CAGR of 4.35% (Arizton).
--	Vietnam’s broader construction market is expected to grow from USD 68.75 billion in 2024 to USD 110.42 billion by 2030, at a CAGR of 8.1% (Mordor Intelligence).
--	Demand for cordless power tools is gradually rising in urban areas due to increasing concerns over safety, mobility, and noise reduction, especially in HVAC and indoor applications.
+**Market size and growth**
 
+- Power tools market value: USD 1.3 billion in 2023 [(Awasthi, 2024)](#3).
+- Tools & Machines market: USD 1.50 billion projected for 2025, with 2.77% CAGR (2025–2029) [(Statista, 2025)](#1).
+- Construction sector: from USD 74.81 billion in 2025 to USD 110.42 billion in 2030 (8.1% CAGR) [(Mordor Intelligence, 2025)](#5).
+- Equipment volumes: 6.12k units in 2023 → 7.90k units by 2029 (4.35% CAGR) [(Arizton, 2025)](#6).
 
-*PESTEL Analysis:*
+**Demand drivers**
+
+- Urbanization and infrastructure projects expanding across major cities.
+- Safety and compliance concerns encouraging cordless adoption in indoor environments.
+- Mobility and productivity needs, as trades increasingly require lighter tools for tighter spaces.
+
+**Adoption realities**
+
+- Price sensitivity remains high, with many buyers focused on upfront cost rather than lifetime value.
+- Legacy preferences for corded and gasoline tools persist, as they are associated with reliability and raw power.
+- Purchase decisions rely on proof, in which contractors trust peer recommendations and want to test tools directly on job sites.
+
+**Implications for Milwaukee**
+
+The Vietnamese market is large enough to support a premium, cordless-led positioning. Growth will favor brands that can demonstrate safety, durability, and productivity at the job site while addressing price sensitivity through clear lifetime-value communication. To better understand the external environment shaping the professional tools market in Vietnam, a PESTEL analysis [(Table 1)](#tb1) highlights the key political, economic, social, technological, legal, and environmental factors influencing Milwaukee’s position.
+
+::: {#tab-pestle}
+<a id="tb1"></a>*Table 1. PESTLE factors relevant to Milwaukee Vietnam*
 
 | **Factor**       | **Relevance to Milwaukee Vietnam**                                      |
 |------------------|-------------------------------------------------------------------------|
-| **Political**    | Regulations on tool safety, import tariffs, and workplace standards.    |
-| **Economic**     | Fuel cost vs. electricity, rising input costs, price-sensitive purchasing. |
-| **Social**       | Deep discounting mindset; legacy usage of gasoline/corded tools.        |
-| **Technological**| Increased interest in lithium battery tools and smart diagnostics.      |
-| **Legal**        | Safety compliance, warranty enforcement, and local standards.           |
-| **Environmental**| Cordless tools offer cleaner, quieter operation; aligns with green trends. |
+| **Political**    | Government regulations on tool safety and workplace standards; import duties influence pricing.    |
+| **Economic**     | Price-sensitive purchasing behaviors; rising input costs; higher electricity use vs. fuel costs. |
+| **Social**       | Discount-driven buying mindset; strong peer influence; continued reliance on gasoline/corded tools.        |
+| **Technological**| Growth in lithium battery adoption; demand for cordless innovation and smart diagnostics.      |
+| **Legal**        | Local safety compliance and warranty enforcement affect brand trust and after-sales perception.           |
+| **Environmental**| Cordless tools support cleaner and quieter job sites; aligns with sustainability and green building trends. |
 
-**Milwaukee Vietnam at a glance:**
+:::
 
--	Entered the Vietnamese market in 2019.
--	Operates via 58 distributors and 124 sub-dealers nationwide.
--	Offers over 300 SKUs, primarily in cordless drills, wrenches, saws, and accessories.
--	Estimated annual revenue in Vietnam: 326 billion VND
--	Year-over-year revenue growth (2024 vs. 2023): 32%
--	Key focus segments: HVAC contractors, electricians, infrastructure teams.
--	Current market stage: early penetration, with limited top-of-mind awareness outside of trade circles.
+## Milwaukee Vietnam Overview
 
-**Key commercial insight:**
+Milwaukee entered the Vietnamese market in 2019 and has since built a growing distribution footprint. The brand is positioned in the premium cordless segment, supported by a wide product portfolio and a selective dealer network.
 
-82% of total sales come from promotion-based activities, with full-price (“normal”) sales accounting for a small minority.
+**Key facts**
 
-→ Reflects a strongly price-sensitive mindset, even among B2B/professional users.
+- Distribution: 58 distributors and 124 sub-dealers nationwide.
+- Portfolio: 300+ SKUs, with a core focus on cordless drills, wrenches, saws, and accessories.
+- Revenue: ~326 billion VND annually.
+- Growth: 32% YoY growth (2024 vs. 2023).
+- Focus segments: HVAC contractors, electricians, and infrastructure teams.
+- Market stage: Early penetration, with limited top-of-mind awareness outside trade circles.
 
-→ Indicates a transactional purchase pattern: most customers wait for discounts rather than respond to brand equity.
+**Commercial insight:**
 
-*Purchase Funnel (Current Customer Behavior)*
+82% of sales are promotion-driven, with only a small share coming from full-price transactions.The purchase funnel [(Table 2)](#tb2) illustrates how Vietnamese professionals currently interact with Milwaukee, highlighting critical drop-offs across the customer journey.
+
+- This reflects a price-sensitive mindset even among professional B2B users.
+- It indicates a transactional purchase pattern, where customers wait for discounts rather than buy based on brand equity.
+
+::: {#tab-Funnel}
+<a id="tb2"></a>*Table 2. Purchase Funnel Table: Current Customer Behavior*
 
 | **Stage**        | **Customer Behavior**                                        | **Milwaukee's Current Challenge**                                      |
 |--------------|----------------------------------------------------------|--------------------------------------------------------------------|
-| **Awareness**     | Low brand recognition in general population              | Limited exposure outside B2B trade circuits; minimal brand campaigns. |
-| **Consideration** | Compares Milwaukee with Bosch, Makita, and cheaper alternatives | Benefits under-communicated; perceived as expensive.                 |
-| **Purchase**      | Only triggered during promotions                        | Struggles to generate full-price purchases; highly transactional behavior. |
-| **Post-purchase** | Low engagement unless re-promoted                       | Minimal loyalty-building; retention tied to continued discounting.   |
+| **Awareness**     | Low recognition outside trade circles              | Limited exposure; minimal brand campaigns. |
+| **Consideration** | Compares with Bosch, Makita, and cheaper brands | Benefits under-communicated; perceived as expensive.                 |
+| **Purchase**      | Triggered mainly by promotions                       | Weak full-price sales; highly transactional behavior. |
+| **Post-purchase** | Low loyalty; engagement fades without discounts                       | Retention dependent on repeat promotions.   |
 
-**Milwaukee strategic direction (2024–2025):**
+:::
 
-Due to these behavioral patterns, Milwaukee Vietnam is currently prioritizing conversion-based communication over brand-building.
+**Strategic direction (2024–2025)**
 
-→ Campaigns are focused on capturing market share through trial, in-store activation, and dealer support.
+- Marketing priorities emphasize conversion over brand-building.
+- Campaigns focus on trial, in-store activation, and dealer support.
+- KPIs such as purchase conversion and demo participation outweigh softer metrics like brand love or engagement.
+- Digital content (Facebook, Zalo) remains largely tactical, with limited investment in storytelling or emotional branding.
 
-→ Performance KPIs (reach, engagement, brand love) are secondary to metrics such as purchase conversion, demo participation, and post-purchase retention.
+## Competitor Snapshot
 
-→ Digital content (Facebook, Zalo) is mostly tactical, with limited investment in storytelling or emotional branding at this stage.
+Milwaukee competes in Vietnam’s premium cordless tools segment, which remains relatively niche but is gaining traction as contractors adopt safer and more mobile solutions. According to Jane Pham, Commericial Director, the main competitors are Bosch, Makita, and DeWalt, each with distinct strengths [(Table 3)](#tb3).
 
-**Structural market barriers:**
+::: {#tab-competitor}
+<a id="tb3"></a>*Table 3. Competitive landscape for major power tool brands*
 
--	Corded and gasoline-powered tools continue to dominate among legacy users.
--	Cordless adoption is increasing in urban projects, but still viewed as expensive and “non-essential” by many field operators.
--	Short-term thinking and a “tool = cost” mindset reduce openness to long-term ROI narratives, especially for higher-priced SKUs.
+| **Brand**       | **Awareness**                                           | **Price positioning**  | **Durability**                          | **Distribution**                                   | **Strategic strengths**                                                                 |
+|-------------|------------------------------------------------------|--------------------|--------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------|
+| **Bosch**   | High | Mid-to-premium     | Low-to-mid | Extensive offline & online dealer network     | Strong visibility, trusted German engineering                                        |
+| **Makita**  | Moderate          | Low-to-mid  | Low-to-mid            | Solid nationwide distribution                  | Known for accessibility and versatile product range                                  |
+| **DeWalt**  | Moderate   | Mid-to-premium     | mid                   | Limited distribution footprint                 | American heritage; overlaps with Milwaukee but weaker presence                       |
+| **Milwaukee** | Low       | Premium  | High          | Selective distribution; early penetration stage | Ecosystem strength (M18, M12, MX FUEL) |
 
-*Ansoff Matrix*
+:::
 
-| **Strategy Type**         | **Application to Milwaukee Vietnam**                                                                 |
-|-----------------------|-------------------------------------------------------------------------------------------------|
-| **Market Penetration** | Focus on converting professional users (e.g., HVAC, electricians) via promotions, demos, and trials. |
-| **Market Development** | Expand reach to factories, industrial agencies, repair centers, and institutional contractors.      |
-| **Product Development** | Introduce localized kits, hand tool bundles, or accessory packs tailored to Vietnamese use cases.   |
-| **Diversification**    | Extend into adjacent categories such as hand tools, accessories, and light gardening equipment.      |
+**Strategic Implications**
 
-## Competitor snapshot
+**Bosch** benefits from high awareness and a strong distribution network, making it the most visible competitor. However, its durability is only rated low-to-mid, suggesting Milwaukee can differentiate on performance and reliability rather than competing head-to-head on visibility alone.
 
-Milwaukee competes in the premium cordless tools segment, which is still relatively niche in Vietnam but gaining traction. Key competitors are presented as below:
+**Makita** maintains moderate awareness and is widely available at affordable prices. Its durability is also rated low-to-mid, which positions it as the budget-friendly choice. For Milwaukee, this highlights an opportunity to frame its premium positioning as a value-for-money investment rather than a simple cost comparison.
 
--	Bosch: Widely recognized and trusted in Vietnam, with strong distribution both offline and online. Offers a mix of corded and cordless tools.
--	Makita: Known for reliability and versatility, Makita maintains a solid presence across segments and is typically more affordable than Milwaukee.
--	Dewalt: A fellow American brand with similar positioning, though it has limited market visibility and reach.
+**DeWalt** overlaps Milwaukee’s American brand heritage and mid-to-premium pricing but suffers from limited distribution and only mid-level durability. This reduces its competitive threat, though it also means Milwaukee cannot rely on “American origin” alone to stand out, it must prove superior value through innovation and community building.
 
-There are three major challenges Milwaukee is currently facing:
+**Milwaukee** is uniquely positioned: it has the highest durability and an advanced ecosystem (M18, M12, MX FUEL), but its low awareness and selective distribution restrict reach. Its challenge is not product quality but market perception and accessibility. Success will depend on boosting visibility, demonstrating long-term value through trials, and educating users on its ecosystem benefits.
 
--	Limited awareness despite global credibility.
--	Misconceptions about brand origin, often mistaken for a Chinese brand due to its acquisition by TTI (Hong Kong).
--	Lack of strong local presence in traditional tool retailers or e-commerce platforms.
+## Insights from Semi-Structured Interviews
 
-[Perceptual map 1](#pm1) reflects how Vietnamese professionals perceive major tool brands. Milwaukee stands out as highly durable but also the most expensive, which fits its positioning, but also creates resistance among price-sensitive users unfamiliar with its long-term value.
+To complement secondary data, we conducted semi-structured interviews with five Milwaukee Vietnam managers between 1 April and 11 April 2025. The participants included:
 
-Bosch and Makita are seen as more affordable but less trusted for heavy-duty work. DeWalt sits in the middle, offering decent durability at a slightly lower cost.
+1. Ms Jane Pham - Commercial Director ([thibaouyen.pham@ttigroup.com.vn](mailto:thibaouyen.pham@ttigroup.com.vn))
+2. Mr. Minh Pham - South Region Manager ([ngocminh.pham@ttigroup.com.vn](mailto:ngocminh.pham@ttigroup.com.vn))
+3. Mrs. Ruby Tran - North Region Manager ([thiminhngoc.tran@ttigroup.com.vn](mailto:thiminhngoc.tran@ttigroup.com.vn))
+4. Mr. Hoang Thai - Product Brand Manager ([minhhoang.thai@ttigroup.com.vn](mailto:minhhoang.thai@ttigroup.com.vn))
+5. Mr. David Lam - Assistant Marketing Manager ([phangiauy.lam@ttigroup.com.vn](mailto:phangiauy.lam@ttigroup.com.vn))
 
-The core insight: Milwaukee’s durability is respected, but not yet experienced by enough users. Many still compare on upfront price. This gap highlights the urgent need for trial-based campaigns, hands-on demos, and social proof to shift perception from “expensive” to “worth it.”
+
+The interviews were conducted in person, transcribed into text, and coded using NVivo software. The analysis followed an action research methodology, where insights from internal stakeholders were used to diagnose current challenges and shape practical solutions. Transcripts were also processed in RStudio to identify recurring keywords and sentiment clusters, ensuring reliability in theme generation.
+
+**Interview guide**
+
+The semi-structured format allowed flexibility while focusing on five core questions:
+
+1. How do Vietnamese professionals currently perceive Milwaukee compared to competitors?
+2. What are the main barriers to adoption of cordless tools in Vietnam?
+3. How do customers react to Milwaukee’s pricing relative to Bosch, Makita, and DeWalt?
+4. What role do promotions, demos, or peer recommendations play in the purchase decision?
+5. From your perspective, what changes are most critical for Milwaukee to build stronger brand equity?
+
+**Key themes**
+From the coding process, three dominant themes emerged. These themes directly support the development of the perceptual maps in the following subsection.
+
+- **Theme 1: Awareness Gap**: Managers consistently highlighted Milwaukee’s limited brand recognition outside trade circles. Many customers confuse Milwaukee with other brands or assume it has a foreign origin unrelated to the U.S. This theme will later be illustrated in a perceptual map that shows Milwaukee positioned as low in awareness despite its strong reputation globally.
+
+- **Theme 2: Price–Value Tension**: While professionals acknowledged Milwaukee’s superior durability and ecosystem, they perceived its tools as significantly more expensive than alternatives. Managers noted that most purchases occur only during promotions, which reinforces a transactional mindset. This theme will later be visualized in a perceptual map where Milwaukee appears as highly durable but also the most expensive brand.
+
+- **Theme 3: Proof and Experience**: A recurring insight was that contractors trust tools only after direct demonstration or peer validation. Without hands-on proof, many rely on upfront price comparisons rather than long-term Return on investment (ROI). This theme will later be reflected in the perceptual maps, emphasizing the critical role of trial and social proof in shifting perceptions.
+
+**Implication**
+The interviews confirm that Milwaukee’s barriers are perception-based rather than product-based. High durability and innovation are recognized internally but remain under-communicated to the wider market. Addressing awareness, price sensitivity, and proof of performance will be essential to reposition Milwaukee in Vietnam.
+
+## Perceptual Maps
+
+To synthesize secondary data and insights from semi-structured interviews, three perceptual maps were developed. These maps illustrate how Vietnamese professionals perceive Milwaukee compared to Bosch, Makita, and DeWalt.
+
+[Perceptual map 1: Durability vs. Price](#pm1) 
+
+Milwaukee is positioned in the quadrant of high durability and high price. Professionals recognize its superior tool performance, but the premium cost creates hesitation in a price-sensitive market. DeWalt occupies a similar premium zone, though with slightly lower durability perceptions. Bosch and Makita are seen as more affordable, but also less durable. The key challenge for Milwaukee is to shift perceptions from “expensive” to “worth the investment,” highlighting long-term value and lifetime ROI.
+
 
 ![](image/pm1.png){#pm1}
 
-[Perceptual map 2](#pm2) explores the brand's visibility in the market versus how much value users associate with it. The goal is to understand if a brand is well-known and whether that awareness leads to strong perceptions of quality, usefulness, or worth.
-Bosch is both widely known and seen as valuable — a result of its broad distribution and heavy local presence. Milwaukee sits in the low-awareness but high-value quadrant, indicating that those who know and use the brand appreciate its performance, but it remains under the radar for many. In contrast, Makita and DeWalt have good awareness, but their perceived value has eroded — possibly due to inconsistent performance or limited innovation.
-This signals a clear action path for Milwaukee: boost brand exposure while maintaining its product credibility. It doesn’t need to rework its tools — it needs more Vietnamese tradespeople to try them. Campaigns should focus on visibility, demos, and real stories to close the awareness gap without diluting value.
+[Perceptual map 2: Awareness vs. Perceived Value](#pm2)
+
+Milwaukee appears as a low-awareness but high-value brand. Those who know and use Milwaukee appreciate its quality, but the majority of consumers remain unfamiliar with it. Bosch dominates with both high awareness despite moderate perceived value, while Makita and DeWalt benefit from better recognition but weaker value perceptions. For Milwaukee, this underscores the need to build visibility while maintaining its credibility as a high-value brand.
 
 ![](image/pm2.png){#pm2}
 
-[Perceptual map 3](#pm3) assesses how actively distributors promote each brand (push) versus how much hesitation users show before purchasing (resistance). The aim is to uncover hidden barriers in the go-to-market pipeline — especially in a category where both retail influence and peer advice play major roles.
+[Perceptual map 3: Push vs. Resistance](#pm3)
 
-Bosch again leads with high retailer support and low user resistance. It’s easy to find, trusted, and often recommended by store staff. Milwaukee struggles on both fronts: retailers rarely push it, and users hesitate due to unfamiliarity, platform switching cost, or lack of first-hand reviews. DeWalt is pushed harder but still faces resistance, while Makita stays in a low-effort, low-friction zone — usually a default choice for low-stakes buyers.
-
-Milwaukee needs a dual-front strategy here. On one side, empower retailers with training, incentive schemes, and better margin stories to drive recommendations. On the other, reduce user resistance through sampling, peer advocacy, and clearer onboarding — especially for those switching from corded or gasoline tools.
+This map reflects customer behavior in terms of marketing push (promotions, activations) versus purchase resistance. Milwaukee is situated in the moderate push, high resistance quadrant, indicating that despite strong promotional activity, customers hesitate to commit without deeper proof of performance. DeWalt faces similar push but with less resistance, while Bosch benefits from strong distribution and lower resistance. Conversely, Makita faces less resistance due to its affordability. For Milwaukee, the insight is clear: promotional pushes alone are insufficient; hence, adoption requires trust built through demonstrations, peer validation, and product education.
 
 ![](image/pm3.png){#pm3}
 
-## Consumer insight
+**Strategic takeaway**
 
-Based on secondary research and early discussions with industry contacts, several behavioral patterns stand out among Vietnamese tool users:
+Across all three maps, Milwaukee consistently emerges as a brand with respected durability and innovation, but constrained by low awareness, perceived expensiveness, and high customer resistance. To reposition successfully in Vietnam, Milwaukee must:
 
--	Price-first mentality: Most buyers, especially contractors and small businesses, evaluate tools based on upfront price rather than lifetime cost efficiency. For example, cordless tools are often perceived as “too expensive” without considering fuel savings, safety, or reduced maintenance.
--	Low brand loyalty: Except for long-time users of Bosch or Makita, many customers are willing to switch brands based on price promotions or peer suggestions.
-- Perception gap:
-  - Milwaukee’s benefits (lightweight, safe, cordless) are not clearly understood.
-  - Many believe Milwaukee is a Chinese or regional brand, which hurts its premium American positioning.
--	Hands-on trial matters: Contractors and technicians trust what they can see and touch. In this segment, tool demonstrations often convert better than brochures or digital ads.
+1. Build brand exposure and correct origin confusion.
+2. Reframe its premium price through clear lifetime-value narratives.
+3. Reduce resistance by enabling trials, demos, and peer advocacy.
+
+## Key barriers
+
+All  five managers in Milwaukee Vietnam consistently articulate consumer needs in simple terms:
 
 <div class="center-text">
 **Job-to-be-done**
@@ -128,16 +184,31 @@ Based on secondary research and early discussions with industry contacts, severa
 *“When I’m on-site and under time pressure, I want a tool that’s safe, reliable, and easy to carry, so I can finish the job quickly without worrying about breakdowns or hazards.”*
 </div>
 
-## Key barriers
+The Job-to-be-Done highlights that users in Vietnam seek tools that are safe, reliable, and easy to use under time pressure. While Milwaukee has the product quality to deliver on these needs, several barriers limit its ability to scale in Vietnam. These barriers are not technical but perception- and structure-driven.
 
-Despite Milwaukee’s clear functional strengths, several barriers currently limit its ability to scale in Vietnam:
+**Market Barriers**
 
--	Upfront pricing concerns: Battery-powered tools are seen as costly, and their long-term value (fuel savings, reduced hazards) isn’t well communicated.
--	Consumer habit inertia: Many users still prefer gasoline or corded tools, which they associate with power and reliability.
--	Lack of product education: Milwaukee’s M12™ and M18™ battery platforms, safety features, and long-term savings are not widely understood.
--	Brand origin confusion: Although an American brand, Milwaukee is often mistaken as “not really American” due to its acquisition by a Hong Kong-based company.
--	Distribution gaps: Limited availability in hardware stores, modern trade channels, and popular online marketplaces.
+- Upfront price sensitivity: Battery-powered tools are perceived as costly, with customers focusing on initial purchase price rather than lifetime value.
+- Legacy tool habits: Many tradespeople remain loyal to corded or gasoline-powered tools, which they still associate with power and reliability.
 
+**Knowledge Barriers**
 
+- Limited product education: Key advantages of Milwaukee’s M12™ and M18™ platforms, including safety features and long-term savings, are not widely understood.
+- Brand origin confusion: Some users mistakenly believe Milwaukee is not truly American, which undermines trust in its premium positioning.
 
+**Access Barriers**
+
+- Distribution gaps: Milwaukee has selective distribution and limited presence in traditional tool retailers, modern trade channels, and popular e-commerce platforms.
+- Promotion dependency: With 82% of sales driven by discounts, full-price purchases remain rare, reinforcing a transactional purchase cycle.
+
+**Implication**
+
+These barriers explain why Milwaukee is consistently perceived as durable but expensive, valuable but under-recognized, and promoted heavily yet resisted at the point of purchase. Addressing them will be central to repositioning the brand and aligning it more closely with the needs expressed in the Job-to-be-Done.
+
+----
+### References
+- <a id="6"></a>Arizton. (2025). *Vietnam Crawler Excavator Market - Strategic Assessment & Forecast 2024-2029*. [https://www.arizton.com/market-reports/vietnam-crawler-excavator-market-opportunities-assessment-forecast](https://www.arizton.com/market-reports/vietnam-crawler-excavator-market-opportunities-assessment-forecast)
+- <a id="3"></a>Awasthi, S. (2024). *Vietnam Power Tools Market Outlook to 2030*. [https://www.kenresearch.com/industry-reports/vietnam-power-tools-market](https://www.kenresearch.com/industry-reports/vietnam-power-tools-market)
+- <a id="5"></a>Mordor Intelligence. (2025). *Vietnam Construction - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2025 - 2030)*. [https://www.researchandmarkets.com/reports/5332844/vietnam-construction-market-share-analysis?srsltid=AfmBOorq7gTWNJ8tPoeLMYDWcgA87-FZq-zoMUZfNiE1EFZYAgP4aScO](https://www.researchandmarkets.com/reports/5332844/vietnam-construction-market-share-analysis?srsltid=AfmBOorq7gTWNJ8tPoeLMYDWcgA87-FZq-zoMUZfNiE1EFZYAgP4aScO)
+- <a id="1"></a>Statista. (2025). *Tools & Machines - Vietnam*. [https://www.statista.com/outlook/cmo/diy-hardware-store/tools-machines/vietnam](https://www.statista.com/outlook/cmo/diy-hardware-store/tools-machines/vietnam)
 
