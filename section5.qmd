@@ -55,9 +55,11 @@ Together, these three modules deliver an integrated campaign where Brand Truth b
 
 ## Customer Persona Profiles
 
-To drive Milwaukee’s growth in Vietnam, the communication strategy focuses on two core personas — one primary end-user and one secondary retail gatekeeper. They play distinct but interconnected roles: tradesmen influence trial and adoption, while retailers influence availability and recommendation.
+To drive Milwaukee’s growth in Vietnam, the communication strategy focuses on two core personas — one primary end-user [(Figure 5)](#ps1) and one secondary retail gatekeeper [(Figure 6)](#ps2). They play distinct but interconnected roles: tradesmen influence trial and adoption, while retailers influence availability and recommendation.
 
 **Persona 1 – Mr. Đăng, The Skilled Tradesman**
+
+![Figure 5. Persona 1](image/persona1.png){#ps1 fig-align="center"}
 
 **Demographic**
 
@@ -93,6 +95,8 @@ To drive Milwaukee’s growth in Vietnam, the communication strategy focuses on 
 - Proof of long-term savings (less downtime, less fuel cost, fewer repairs)
 
 **Persona 2 – Mr. Tập, The Retail Gatekeeper**
+
+![Figure 6. Persona 2](image/persona2.png){#ps2 fig-align="center"}
 
 **Demographic**
 
@@ -136,22 +140,13 @@ Mr. Đăng represents Milwaukee’s primary pull audience. He is the professiona
 To effectively reposition Milwaukee in Vietnam, a balanced media mix is required. The Paid–Owned–Earned (POEM) framework ensures that the brand can achieve broad reach, control its messaging, and build authentic advocacy [(Table 8)](#tb8). This integration is critical for moving professionals from awareness to trial and ultimately to long-term loyalty.
 
 ::: {#tab-POEM}
-<a id="tb7"></a>*Table 8. Media Mix Overview*
+<a id="tb8"></a>*Table 8. Media mix overview*
 
 | **Media Type** | **Channel(s)**                                 | **Role / Objective**                                       | **Key Tactics**                                                                            |
 | -------------- | ---------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Paid**       | Targeted Social Media Ads (Facebook, YouTube)  | Generate awareness, drive demos, retarget interested users | Hyper-target trade groups and job titles (e.g., electricians, HVAC); content retargeting   |
-|                | Google Search Ads                              | Capture high-intent users researching tools                | Target keywords such as *“máy khoan pin Milwaukee”*, *“dụng cụ điện cầm tay Mỹ”*           |
-|                | Native Advertising on Industry News Sites      | Blend promotion with credibility                           | Partner with Vietnamese construction & engineering news portals                            |
-|                | E-commerce Platform Ads (Shopee, Lazada, Tiki) | Increase visibility where price-sensitive buyers search    | Direct traffic to official Milwaukee product listings or dealer stores                     |
-| **Owned**      | Localized Website / Landing Pages              | Communicate U.S. heritage, innovation, and relevance       | Dedicated Vietnamese website with localized imagery, testimonials, “About Us” section      |
-|                | Zalo Official Account                          | CRM, promotions, direct nurturing                          | Broadcast product updates, tips, and exclusive offers; activate Zalo Shop features         |
-|                | YouTube Channel                                | Enhance consideration via long-form reviews                | Product demos, how-to guides, competitor comparisons, factory tours (Vietnamese narration) |
-|                | Knowledge Hub / Blog                           | Position Milwaukee as industry authority                   | Articles on maintenance, safety, industry trends, success stories                          |
-| **Earned**     | PR with Trade Publications                     | Build credibility, secure product reviews                  | Engage with Vietnamese trade magazines for features and interviews                         |
-|                | Industry Association Partnerships              | Direct access to professionals, build trust                | Host workshops, sponsor training sessions, support industry events                         |
-|                | UGC Contest (*RedVoice. Your Choice.*)         | Amplify peer advocacy                                      | Encourage video/photo submissions of tool use; offer prizes and feature winners            |
-|                | Job Site Case Studies                          | Demonstrate measurable impact                              | Collaborate with contractors to publish case studies on efficiency, safety, and ROI        |
+| **Paid**       | • Targeted Social Media Ads (Facebook, YouTube) <br> • Google Search Ads <br> • Native Advertising on Industry News Sites <br> • E-commerce Platform Ads (Shopee, Lazada, Tiki) | • Generate awareness, drive demos, retarget interested users <br> • Capture high-intent users researching tools <br> • Blend promotion with credibility <br> • Increase visibility where price-sensitive buyers search | • Hyper-target trade groups and job titles (e.g., electricians, HVAC); content retargeting <br> • Target keywords such as *“máy khoan pin Milwaukee”*, *“dụng cụ điện cầm tay Mỹ”* <br> • Partner with Vietnamese construction & engineering news portals <br> • Direct traffic to official Milwaukee product listings or dealer stores |
+| **Owned**      | • Localized Website / Landing Pages <br> • Zalo Official Account <br> • YouTube Channel <br> • Knowledge Hub / Blog | • Communicate U.S. heritage, innovation, and relevance <br> • CRM, promotions, direct nurturing <br> • Enhance consideration via long-form reviews <br> • Position Milwaukee as industry authority | • Dedicated Vietnamese website with localized imagery, testimonials, “About Us” section <br> • Broadcast product updates, tips, and exclusive offers; activate Zalo Shop features <br> • Product demos, how-to guides, competitor comparisons, factory tours (Vietnamese narration) <br> • Articles on maintenance, safety, industry trends, success stories |
+| **Earned**     | • PR with Trade Publications <br> • Industry Association Partnerships <br> • UGC Contest (*RedVoice. Your Choice.*) <br> • Job Site Case Studies | • Build credibility, secure product reviews <br> • Direct access to professionals, build trust <br> • Amplify peer advocacy <br> • Demonstrate measurable impact  | • Engage with Vietnamese trade magazines for features and interviews <br> • Host workshops, sponsor training sessions, support industry events <br> • Encourage video/photo submissions of tool use; offer prizes and feature winners <br> • Collaborate with contractors to publish case studies on efficiency, safety, and ROI |
 
 ::: 
 
@@ -164,3 +159,235 @@ This POEM mix creates a cohesive ecosystem:
 - Earned media builds credibility and advocacy, amplifying authentic voices of professionals and industry partners.
 
 Together, these channels support Milwaukee’s three communication objectives: Brand Truth (credibility), Proof in Action (trial and conversion), and Community Power (advocacy and loyalty).
+
+## Social Media Plan
+
+Social media is central to Milwaukee’s repositioning in Vietnam. Each platform serves a distinct role in the customer journey: Facebook for education and community engagement, TikTok for short-form storytelling and user-generated content, Zalo for personalized support, and YouTube for in-depth product insights [(Table 9](#tb9).
+
+::: {#tab-Media}
+<a id="tb9"></a>*Table 9. Platform roles and tactics*
+
+| **Platform** | **Focus**                                                     | **Key Tactics**                                                                                                                                                               |
+| ------------ | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Facebook** | • Product education, community engagement, gathering insights, localization | • Interactive Q\&A sessions (Facebook Live) <br> • Polls and surveys for user needs <br> • Localized content calendar (holidays, cultural events) <br> • Active presence in trade-specific groups |
+| **TikTok**   | • Driving engagement, UGC, showcasing ingenuity                             | • “Milwaukee Challenges” (e.g., speed, durability) <br> • “Tool Hacks” series <br> • Day-in-the-life videos of professionals                                                                |
+| **Zalo**     | • Personalized support, exclusive offers, streamlining customer journey     | • Chat-based customer support <br> • Exclusive broadcast updates (flash sales, demos, new arrivals) <br> Zalo mini-apps for catalogues, dealer locator, and warranty registration         |
+| **YouTube**  | • In-depth product understanding, expert insights, training                 | • Product reviews by local experts <br> • Structured training series (safety, maintenance, advanced features) <br> • Live Q\&A with global experts (Vietnamese translation)                 |
+
+:::
+
+**Integration Synthesis**
+
+- Facebook builds credibility and trust by answering questions and localizing brand content.
+- TikTok drives viral engagement and encourages tradespeople to showcase Milwaukee’s performance creatively.
+- Zalo provides direct customer touchpoints, strengthening relationships through service and exclusivity.
+- YouTube deepens product understanding and positions Milwaukee as a knowledge leader in the tools market.
+
+Together, these platforms create a full-funnel social media ecosystem: awareness (TikTok, Facebook) → consideration (YouTube, Facebook) → conversion and loyalty (Zalo, Facebook, YouTube) → advocacy (TikTok, UGC campaigns).
+
+## Digital Strategy
+
+Milwaukee’s digital strategy in Vietnam extends beyond social media to create a holistic ecosystem that educates professionals, drives conversions, and reinforces long-term brand credibility. The approach integrates website experience, direct marketing, online education, and partnerships with trade platforms, ensuring that Milwaukee reaches professionals at every step of their journey [(Table 10)](#tb10).
+
+::: {#tab-Digital}
+<a id="tb10"></a>*Table 10. Digital components overview*
+
+| **Category**                                       | **Component**                        | **Description**                                                                                  |
+| -------------------------------------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| **Enhanced Website Experience**                    | Interactive Product Configurators    | Allow users to build customized tool kits tailored to their trade (e.g., HVAC starter kits).               |
+|                                                    | Dealer Locator with Inventory Status | Help customers find authorized dealers and check product availability in real time.                        |
+|                                                    | Customer Testimonial Section         | Showcase positive experiences and benefits gained by Vietnamese professionals.                             |
+| **Targeted Email & SMS Marketing**                 | Segmented Campaigns                  | Deliver relevant promotions and content based on user behavior and profession.                             |
+|                                                    | Abandoned Cart Reminders             | Automated reminders for uncompleted purchases on website/e-commerce.                                       |
+|                                                    | New Product Launch Announcements     | Create anticipation and inform subscribers about new products or offers.                                   |
+| **Online Education Hub**                           | Webinars & Virtual Workshops         | Host sessions on cordless tool safety, maximizing battery life, etc., with digital certificates.           |
+|                                                    | Downloadable Resources               | Provide e-books, safety checklists, and guides relevant to local practices.                                |
+| **Partnerships with Local Tech / Trade Platforms** | Industry Forums & Boards             | Participate in local forums, guide discussions, and offer expert advice.                                   |
+|                                                    | Online Classifieds / Marketplaces    | Maintain brand visibility on popular platforms (e.g., Chợ Tốt) while directing users to official channels. |
+
+:::
+
+**Integration Synthesis)**
+
+- Enhanced Website Experience strengthens Brand Truth by clarifying Milwaukee’s American origin and providing localized testimonials.
+- Targeted Email & SMS Marketing drives Proof in Action, nudging professionals from consideration to purchase with personalized reminders and launch announcements.
+- Online Education Hub reinforces Brand Truth and Community Power, positioning Milwaukee as a knowledge partner through training, webinars, and resources.
+- Partnerships with Local Platforms expand Proof in Action by placing Milwaukee in the spaces where tradespeople actively seek advice and product recommendations.
+
+## Influencer Marketing
+
+Milwaukee’s influencer strategy in Vietnam emphasizes authenticity and education over pure reach. Instead of relying on celebrity endorsements, the focus is on micro-experts, tradespeople, and Key Opinion Consumers (KOCs) who directly shape tool choices among professionals [(Table 11)](#tb11). This approach strengthens credibility, creates relatable content, and builds a community of advocates who trust Milwaukee’s value.
+
+::: {#tab-Influencer}
+<a id="tb11"></a>*Table 11. Influencer segments and collaborations*
+
+| **Influencer Segment**               | **Type of Collaboration**                 | **Objective / Description**                                                                 |
+| --------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **Master Craftsmen (Thợ Lành Nghề)** | Long-Term Ambassadors                     | Partner with respected tradesmen as genuine brand ambassadors.                              |
+|                                      | “A Day in the Life with Milwaukee” Series | Documentary-style videos showing real job site use, highlighting durability and efficiency. |
+|                                      | Guest Speakers / Trainers                 | Host *RedTalk Live* or lead workshops, sharing expertise and tool demonstrations.           |
+| **“Youthful Pro” Segment**           | Gamified TikTok / YouTube Challenges      | Engage younger tradespeople/DIYers through performance-based challenges.                    |
+|                                      | “Tool Makeover” Series                    | Feature influencers upgrading from old corded/gas tools to Milwaukee cordless systems.      |
+| **Micro-Influencer & KOC Network**   | “Milwaukee Pro Program”                   | Offer early access, discounts, and training to KOCs for authentic reviews and showcases.    |
+|                                      | Localized Content Briefs                  | Provide guidance on emphasizing U.S. heritage, safety, and long-term ROI.                   |
+|                                      | Regional Influencers                      | Collaborate with tradespeople in key regions (e.g., Mekong Delta, Central Highlands).       |
+| **Cross-Platform Amplification**     | Influencer Content Syndication            | Repurpose and amplify influencer content across owned channels with attribution.            |
+|                                      | Live Streams from Job Sites               | Enable real-time Q\&A and authentic demonstrations directly from job sites.                 |
+
+:::
+
+**Strategic Fit**
+
+- Brand Truth: Master craftsmen provide credibility through their expertise and reputation.
+- Proof in Action: Gamified challenges and tool makeover series demonstrate Milwaukee’s cordless performance.
+- Community Power: KOC networks and regional influencers expand authentic advocacy, amplified across multiple platforms.
+
+## Artificial Intelligence Integration
+
+Milwaukee Vietnam is preparing to launch the One-Key™ app, a smart tool management platform that connects cordless tools to smartphones via Bluetooth. This platform opens a gateway for Artificial Intelligence (AI) integration, enhancing tool usage, personalizing customer engagement, and reinforcing Milwaukee’s tech-forward image. By embedding AI into product use and customer engagement, Milwaukee reinforces its differentiation as a tech-forward premium brand, deepens loyalty, and creates data-driven pathways for continuous innovation. [Table 12](#tb12) indicates the key roadmap for One-Key™ app.
+
+::: {tab-AIapp}
+<a id="tb12"></a>*Table 12. AI integration roadmap*
+
+| **AI Area**                                                  | **Application**                    | **Description / Purpose**                                                                                         |
+| ------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Product Intelligence & Personalization (via One-Key™)** | Torque Optimization Suggestions    | AI analyzes usage patterns and recommends optimal power presets for different trades (e.g., HVAC vs. electrical). |
+|                                                              | Preventive Maintenance             | Predictive alerts notify users of stress/overheating, extending tool lifespan.                                    |
+|                                                              | Smart Job Reports                  | Automated summaries (time, power, battery efficiency) help professionals quote clients more accurately.           |
+|                                                              | Tailored Training Content          | Pushes tutorials, FAQs, and feature reminders based on actual usage habits.                                       |
+| **AI-powered Marketing & Engagement**                     | Behavior-Based Promotions          | Deliver promotions for accessories or upgrades based on tool usage.                                               |
+|                                                              | Smart Retargeting & Loyalty Nudges | Segment users by profession/project type and send relevant content or bundles.                                    |
+|                                                              | Gamification & Leaderboards        | Track tool mastery; award “Pro Board” rankings or digital badges to boost engagement.                             |
+|                                                              | Feedback Loops for NPD             | Aggregate usage data informs R\&D about unmet needs and local pain points.                                        |
+| **Future Potential**                                      | Voice-Based Assistant              | Hands-free support for tool usage on job sites.                                                                   |
+|                                                              | AI Chatbot                         | Provide on-site troubleshooting and warranty support in real time.                                                |
+|                                                              | Augmented Reality Overlays         | Offer “how-to” usage instructions directly over tool view.                                                        |
+
+:::
+
+**Strategic Fit**
+
+- Brand Truth: Demonstrates Milwaukee’s American engineering excellence through advanced AI-enabled tools.
+- Proof in Action: Preventive maintenance, smart reports, and tailored tutorials give professionals tangible benefits in daily use.
+- Community Power: Gamification, leaderboards, and feedback loops create shared experiences and user-driven insights.
+
+## Budget and Timeline
+
+**Campaign timeline**
+
+Milwaukee’s execution plan will be rolled out across four quarters, ensuring momentum throughout the year and allowing campaigns to reinforce one another. The roadmap [(Table 13)](#tb13) reflects a logical progression:
+
+- First quarter (RedStories. Real Glories.) focuses on storytelling and credibility, laying the foundation by correcting brand perception.
+- Second quarter (RedTest. RedBest.) drives conversion through on-ground activations, enabling technicians to directly experience Milwaukee’s cordless advantages.
+- Third quarter (RedTrade. Real Upgrade.) targets budget-sensitive users and legacy tool owners with trade-in programs and bundled starter kits, lowering adoption barriers.
+- Last quarter (RedVoice. Your Choice. & RedTalk Live) consolidates community advocacy and retention through UGC campaigns, peer-led content, and live tutorials hosted by trade KOLs.
+
+This sequence ensures that awareness is first established, then converted into trial, and finally sustained through loyalty and advocacy.
+
+::: {#tab-quarterly}
+<a id="tb13"></a>*Table 13. Quarterly campaign plan*
+
+| **Quarter** | **Campaign** | **Main & Sub-Audiences** | **Channels** | **Tactics** |
+|-|---|---|---|---|
+| **Q1** | RedStories — *Real Glories* | • Main: 25–45 y/o male workers <br> • Sub: Aspiring team leads | YouTube; Facebook; TikTok | • Docu-style storytelling <br> • Customer transformation highlights <br> • Safety & speed focus |
+| **Q2** | RedTest — *RedBest* | • Main: Mid-career technicians <br> • Sub: Jobsite users skeptical of cordless tools | On-ground activations; Facebook Live; TikTok | • Mobile demo trucks <br> • Timed tool competitions <br> • Rewards: rental vouchers, social shoutouts |
+| **Q3** | RedTrade — *Real Upgrade* | • Main: Budget-sensitive tool users <br> • Sub: Legacy gas/electric users | POS; Facebook Ads; Zalo; CRM | • Trade-in program <br> • Bundled starter kits <br> • Zalo onboarding push |
+| **Q4** | RedVoice — *Your Choice* | • Main: Facebook/TikTok-active blue-collar workers <br> • Sub: Peer influencer technicians | Owned social; user-generated content | • UGC campaigns (video tips/reviews) <br> • Content boosting for reach <br> • Community voting |
+| **Q4** | RedTalk Live | • Main: CRM leads & active users <br> • Sub: Loyalists; site-level advocates | Zalo; Facebook Live | • Weekly mini tutorials <br> • Tool hacks & maintenance advice <br> • Hosted by trade KOLs |
+
+:::
+
+**Budget allocation**
+
+The proposed annual budget for Milwaukee Vietnam is USD 880,000, distributed across activities that align with the brand’s strategic pillars. The waffle chart below illustrates the allocation:
+
+- On-ground Activations (30%) represent the largest share, emphasizing Milwaukee’s trial-driven approach where live demos and tool competitions are key to overcoming skepticism.
+- Social Media Advertising (24%) underpins visibility and ensures consistent brand storytelling across Facebook, TikTok, YouTube, and Zalo.
+- Influencer & KOC Engagement (15%) secures authenticity through partnerships with craftsmen, youthful pros, and micro-influencers.
+- Content Production (12%) funds the creation of localized assets, including docu-style videos, tool hack series, and training modules.
+- Remaining budget (19%) is distributed across PR & trade media, POSM/print support, training programs, and a contingency fund (5%) to manage unforeseen needs.
+
+This allocation ensures a balanced mix of mass reach, trial-based engagement, and long-term brand reinforcement.
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(plotly)
+library(moments)
+
+cleanup <- theme(panel.grid.major = element_blank(),
+                 panel.grid.minor = element_blank(),
+                 panel.background = element_blank(),
+                 axis.line.x = element_line(color = "black"),
+                 axis.line.y = element_line(color = "black"),
+                 legend.key = element_rect(fill ="white"),
+                 text = element_text(family = "serif", size = 14),
+                 plot.title = element_text(face = "bold", hjust = 0.5))
+
+# --- Data ---
+cost <- tibble::tribble(
+  ~category,                                     ~pct,
+  "On-ground Activation (RedTour, Demo)",          30,
+  "Social Media Advertising",                      24,
+  "Influencer & KOC Engagement",                   15,
+  "Content Production",                            12,
+  "Training & Trade Support",                       6,
+  "POSM & Print Materials",                         5,
+  "Contingency",                                    5,
+  "PR & Trade Media",                               3
+)
+
+# --- total tiles in waffle (10x10 = 100) ---
+n_rows <- 10; n_cols <- 10
+N <- n_rows * n_cols
+
+# --- compute number of tiles per category ---
+cost <- cost %>%
+  mutate(n = round(pct/100 * N))
+
+# fix rounding so total = 100
+diff <- N - sum(cost$n)
+if (diff != 0) {
+  i <- which.max(cost$pct)   # adjust the largest slice
+  cost$n[i] <- cost$n[i] + diff
+}
+
+# --- expand into 100 rows ---
+waffle_tiles <- cost %>%
+  uncount(n) %>%
+  mutate(
+    tile_id = row_number(),
+    x = (tile_id - 1) %% n_cols + 1,
+    y = n_rows - floor((tile_id - 1) / n_cols),
+    hover = paste0(category, ": ", pct, "%")
+  )
+
+# --- colors ---
+pal <- c(
+  "#1f77b4", "#ff7f0e", "#2ca02c", "#c8102E",
+  "#9467bd", "#8c564b", "#e377c2", "#7f7f7f"
+)
+
+# --- plot ---
+g <- ggplot(waffle_tiles, aes(x, y, fill = category, text = hover)) +
+  geom_tile(width = 0.95, height = 0.95, color = "white", linewidth = 0.3) +
+  scale_fill_manual(values = pal) +
+  coord_equal() +
+  labs(title = "Estimated Budget: $880,000 USD", x = NULL, y = NULL, fill = NULL) +
+  theme_void(base_size = 12) +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold"),
+    legend.position = "bottom",
+    legend.text = element_text(size = 10),
+    plot.margin = margin(5, 5, 5, 5)
+  ) +
+  cleanup
+
+ggplotly(g, tooltip = "text") %>%
+  layout(legend = list(orientation = "h", x = 0, y = -0.1))
+```
+
+**Integration of timeline and budget**
+
+By synchronizing campaign phasing with budget priorities, Milwaukee ensures that resources are maximized where they have the greatest impact: Q2 on-ground activations and Q3 trade-in programs directly address price sensitivity and product skepticism, while Q1 storytelling and Q4 advocacy campaigns reinforce brand truth and community power.

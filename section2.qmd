@@ -4,13 +4,15 @@ title: "Introduction"
 
 ## Project Rationale
 
-Milwaukee is a leading global brand for professional cordless power tools. It is known for innovation, durability, and productivity in markets such as North America and Europe. However, in Vietnam, the brand has not reached the same level of success. The issue lies not in product quality but in brand perception.
+Milwaukee is a leading global brand for professional cordless power tools. It is known for innovation, durability, and productivity in markets such as North America and Europe. However, in Vietnam, the brand has not reached the same level of success. "The issue lies not in product quality but in brand perception.", according to David Lam, Assistant Marketing Manager at Milwaukee Vietnam.
 
 The Vietnamese tools and machines market is expanding. In 2025, it is projected to generate US$1.50 billion in revenue, with an annual growth rate of 2.77% through 2029 [(Statista, 2025)](#1). This growth is supported by the country’s push to modernize infrastructure and attract foreign investment, creating strong opportunities for international brands that can build trust and deliver long-term value.
 
-Milwaukee faces three key barriers in this market. Many workers are not aware of the brand. Some mistake it for a Chinese company, which lowers trust. Others see the price as too high compared to competitors. In a price-sensitive environment where peer trust matters, these barriers prevent wider adoption.
+Despite the prosperous market, Milwaukee faces three key barriers in this market. Many workers are not aware of the brand. Some consumers mistake it for a Chinese company, which lowers trust. Others see the price as too high compared to competitors. In a price-sensitive environment where peer trust matters, these barriers prevent wider adoption [(Liu et al., 2025)](#7).
 
 This project is designed to address those gaps. Its aim is to reposition Milwaukee as a premium American brand in Vietnam. The focus is on shifting attention from price to long-term value, correcting origin confusion, and strengthening trust among professional users. Achieving this will allow Milwaukee to capture growth, build stronger dealer networks, and secure a leading position in the market.
+
+Below is an interactive map showing Milwaukee Tools’ presence:
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -88,7 +90,7 @@ Alongside these platforms, Milwaukee also provides a wide range of hand tools, a
 
 ## Problem Statement
 
-Although Milwaukee has a strong global reputation, its performance in Vietnam is constrained by perception gaps rather than product limitations. According to Jane Pham, Commericial Director, there are three key issues:
+Although Milwaukee has a strong global reputation, its performance in Vietnam is constrained by perception gaps rather than product limitations. According to Jane Pham, Commericial Director at Milwaukee Vietnam, there are three key issues:
 
 1. **Low brand awareness**: Many Vietnamese professionals are unfamiliar with Milwaukee compared to competitors such as Bosch, Makita, and Dewalt. This reduces consideration during the purchase process.
 
@@ -104,7 +106,7 @@ This project aims to reposition Milwaukee as the leading premium American tool b
 
 <div class="center-text">
 <p style="font-weight:bold;">
-Objective 1: Brand Truth
+Objective 1: Brand Truth → Reposition Milwaukee as a premium American-engineered cordless solution
 </p>
 </div>
 - Correct origin misperceptions by emphasizing Milwaukee’s U.S. heritage, advanced engineering, and durability.
@@ -112,7 +114,7 @@ Objective 1: Brand Truth
 
 <div class="center-text">
 <p style="font-weight:bold;">
-Objective 2: Proof in Action
+Objective 2: Proof in Action → Drive product trial and conversion among target tradespeople
 </p>
 </div>
 - Reduce price sensitivity by highlighting long-term value through tool demonstrations, proof-of-performance campaigns, and dealer activations.
@@ -120,7 +122,7 @@ Objective 2: Proof in Action
 
 <div class="center-text">
 <p style="font-weight:bold;">
-Objective 3: Community Power
+Objective 3: Community Power→ Build loyalty and advocacy through peer-led validation
 </p>
 </div>
 - Foster a professional user community that shares authentic stories, recommendations, and experiences.
@@ -131,11 +133,12 @@ Objective 3: Community Power
 Scope
 </p>
 </div>
-- The project focuses on Milwaukee’s core cordless platforms (M18™, M12™, and MX FUEL™) and their adoption among Vietnamese professionals in construction, electrical, HVAC, and related trades. The scope covers a two- to three-year horizon, with an emphasis on repositioning strategies, trial-driving initiatives, and community-building programs.
+- The project focuses on Milwaukee’s core cordless platforms (M18™, M12™, and MX FUEL™) and their adoption among Vietnamese professionals in construction, electrical, HVAC, and related trades. Its scope spans four quarters, emphasizing repositioning strategies, trial-driving initiatives, and community-building programs.
 
 ----
 ### References
 - <a id="3"></a>Awasthi, S. (2024). *Vietnam Power Tools Market Outlook to 2030*. [https://www.kenresearch.com/industry-reports/vietnam-power-tools-market](https://www.kenresearch.com/industry-reports/vietnam-power-tools-market)
+- <a id="7"></a>Liu, R., Tian, M., Wang, J., Nian, Y., Ma, H., & Liang, F. (2025). Do peer effects matter on consumer purchases of Fuji apples? Evolutionary game analysis and reality verification. *Current Psychology*, *44*(14), 13279-13296. [https://doi.org/10.1007/s12144-025-07960-3](https://doi.org/10.1007/s12144-025-07960-3)
 - <a id="2"></a>Milwaukee. (2021). *The Milwaukee Story*. [https://www.milwaukeetool.com/Company/Milwaukee-Story](https://www.milwaukeetool.com/Company/Milwaukee-Story)
 - <a id="1"></a>Statista. (2025). *Tools & Machines - Vietnam*. [https://www.statista.com/outlook/cmo/diy-hardware-store/tools-machines/vietnam](https://www.statista.com/outlook/cmo/diy-hardware-store/tools-machines/vietnam)
 - <a id="4"></a>Trang, N. T., Kopp, S. W., Tu, V. H., & Yabe, M. (2023). Urban Vietnamese consumers’ preferences for attributes of sustainably produced rice. *Journal of Consumer Marketing*, *40*(3), 286–304. [https://doi.org/10.1108/JCM-12-2020-4334](https://doi.org/10.1108/JCM-12-2020-4334)
