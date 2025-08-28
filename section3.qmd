@@ -121,8 +121,6 @@ To complement secondary data, we conducted semi-structured interviews with five 
 
 The interviews were conducted in person, transcribed into text, and coded using NVivo software. The analysis followed an action research methodology, where insights from internal stakeholders were used to diagnose current challenges and shape practical solutions. Transcripts were also processed in RStudio to identify recurring keywords and sentiment clusters, ensuring reliability in theme generation.
 
-![Semi-structured interview with Mr. Hoang Thai](image/interview.png){#pm1 width="70%" fig-align="center"}
-
 **Interview guide**
 
 The semi-structured format allowed flexibility while focusing on five core questions:
