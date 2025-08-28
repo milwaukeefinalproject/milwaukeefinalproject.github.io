@@ -1,16 +1,55 @@
 ---
-title: "Executive summary"
+title: "Executive Summary"
 ---
 
-Over the past five years, Milwaukee has entered the Vietnamese market with a strong global reputation and a portfolio of high-performance cordless tools. However, despite clear functional advantages, like safety, portability, and long-term cost savings, the brand is still struggling to gain traction locally. The biggest issue is not the product, but perception.
+## Executive Summary
 
-This project dives into the core barriers preventing Milwaukee from scaling in Vietnam: limited brand awareness, pricing objections, and a critical misperception as many people still think it’s a Chinese brand, not an American one. That misalignment between what the brand is and how it’s seen is what this project aims to address.
+Over the past five years, Milwaukee has entered the Vietnamese market with a reputation as one of the world’s leading cordless power tool brands. Despite its strong global credentials and superior product performance, including safety, portability, and long-term cost savings, the brand has struggled to establish traction locally. The challenge is not product quality but perception. Many Vietnamese professionals have limited awareness of Milwaukee, associate it with high prices, or mistakenly view it as a Chinese brand rather than its true American origin.
 
-By combining market research, competitive analysis, and insight into how Vietnamese professionals choose their tools, we have built a communication strategy that reframes Milwaukee for what it truly is: a premium American technology brand made for serious professionals. The strategy focuses on clarifying its value, reconnecting with its origin story, and choosing the right messages, channels, and touchpoints to reach the right people, especially those in HVAC and electrical sectors.
+This project set out to reposition Milwaukee in Vietnam, addressing three interconnected barriers:
 
-What follows is not just a branding proposal, but a practical roadmap for repositioning Milwaukee in a market where trust, function, and perceived value matter more than ever.
+1. Low brand awareness in a crowded, price-sensitive market.
+2. Price objections driven by short-term purchasing behavior.
+3. Brand origin confusion undermining trust and credibility.
 
+## Methodology and Insights
 
+This project adopts an action research methodology, combining both qualitative and secondary data to diagnose Milwaukee’s brand challenges in Vietnam and design practical solutions. Action research is appropriate for this context as it is problem-driven, collaborative, and oriented toward generating actionable outcomes.
+
+Primary insights were collected through semi-structured interviews with five key managers at Milwaukee Vietnam (Commercial Director, Regional Managers, Product Brand Manager, and Assistant Marketing Manager) conducted between 1/4/2025 and 11/4/2025. Interviews were recorded, transcribed, and analyzed using NVivo and RStudio. Thematic coding identified recurring issues around brand awareness, price sensitivity, and misperceptions of origin, which informed the construction of three perceptual maps.
+
+Secondary research included industry reports (Statista, Ken Research, Arizton, Mordor Intelligence) and competitor benchmarking. These sources provided quantitative data on market size, growth trends, and purchasing behaviors.
+
+Findings from both streams were integrated using frameworks such as PESTEL analysis, Job-to-Be-Done (JTBD), perceptual mapping, and the Ansoff Matrix. This ensured that recommendations were not only grounded in data but also structured around established strategic tools.
+
+By combining field insights with market data, the methodology provides a 360-degree view of Milwaukee’s position in Vietnam, enabling the development of a realistic repositioning strategy and execution plan.
+
+## Strategic Approach
+
+The project proposes an integrated communication strategy anchored in three pillars:
+
+- Objective 1: Brand Truth → Reposition Milwaukee as a premium American-engineered cordless solution
+- Objective 2: Proof in Action → Drive product trial and conversion among target tradespeople
+- Objective 3: Community Power → Build loyalty and advocacy through peer-led validation
+
+These pillars translate into modular campaigns such as RedStories (storytelling), RedTest (hands-on demos), RedTrade (tool trade-in programs), RedVoice (UGC advocacy), and RedTalk Live (community training and events).
+
+## Execution Plan
+
+The recommended one-year plan allocates resources across digital, social, on-ground activations, and AI-driven engagement via the One-Key™ app. Budget priorities emphasize demos and activations (30%), digital advertising (24%), influencer/KOC engagement (15%), and content production (12%). The plan is phased quarterly:
+
+- Quarter 1 → Build awareness and credibility.
+- Quarter 2 → Intensify product trial and conversion.
+- Quarter 3 → Lower adoption barriers via trade-in incentives.
+- Quarter 4 → Strengthen community advocacy and loyalty.
+
+## Evaluation and Outcomes
+
+Clear KPIs have been defined across awareness (recall, views), engagement (UGC, interactions), trial and conversion (demo participation, sales lift), and community building (CRM growth, RedTalk participation). Tracking will combine platform analytics, CRM data, dealer reporting, and brand surveys to ensure real-time optimization.
+
+## Conclusion
+
+This roadmap positions Milwaukee to shift perception from “expensive” to “worth the investment”, supported by authentic proof and community trust. By aligning advanced technology, hands-on experience, and peer advocacy, Milwaukee Vietnam can secure long-term growth and leadership in the professional tools market.
 
 
 

@@ -3,6 +3,7 @@ project:
   output-dir: docs
   resources:
    - styles.css
+   - report.pdf
 
 website:
   title: "<img src='milwaukeelogo.png' style='height:40px;'>"
@@ -11,10 +12,14 @@ website:
       - href: index.qmd
         text: Home
       - section1.qmd
+      - section1b.qmd
+      - section 1c.qmd
       - section2.qmd
       - section3.qmd
       - section4.qmd
       - section5.qmd
+      - section6.qmd
+      - section7.qmd
       
 format:
   html:

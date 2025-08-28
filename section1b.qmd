@@ -1,0 +1,40 @@
+---
+title: "Acknowledgement"
+---
+
+## Acknowledgement
+
+We would like to express our sincere gratitude to the lecturers of Solvay Brussels School of Economics and Management for their invaluable guidance throughout the Master’s Degree program. Their teaching and encouragement have provided us with the knowledge and skills necessary to complete this project.
+
+We also extend our appreciation to the five managers at Milwaukee Vietnam who generously contributed their time and insights during the research process. Their perspectives were essential in shaping a realistic and practical strategy for this project.
+
+A special note of thanks goes to our mentors, Mr. Hoang Thai (Product Brand Manager) and Mr. David Lam (Assistant Marketing Manager), for their continuous support, constructive feedback, and practical advice. Their involvement greatly enhanced the quality and relevance of our work.
+
+## About Us
+
+::: {.columns}
+::: {.column width="50%"}
+<div class="profile-card">
+  <img src="image/huong.png" alt="Phan Ngoc Quynh Huong" class="avatar">
+  <h3>Phan Ngoc Quynh Huong</h3>
+  <p class="role">Marketing Manager</p>
+  <p class="company">PRIMA Jewelry Vietnam</p>
+  <p>
+    <a href="mailto:pnq.huong0111@gmail.com">pnq.huong0111@gmail.com</a><br>
+    <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+  </p>
+</div>
+:::
+
+::: {.column width="50%"}
+<div class="profile-card">
+  <img src="image/milwaukeelg.png" alt="Tran Thi Thanh Ha" class="avatar">
+  <h3>Tran Thi Thanh Ha</h3>
+  <p class="role">[Occupation]</p>
+  <p class="company">[Company]</p>
+  <p>
+    <a href="mailto:[email@example.com]">[email@example.com]</a>
+  </p>
+</div>
+:::
+:::

@@ -1,0 +1,37 @@
+---
+title: "Academic Integrity"
+---
+
+## Abbreviation List
+
+- AI: Artificial Intelligence
+- B2B: Business-to-Business
+- CRM: Customer Relationship Management
+- HVAC: Heating, Ventilation, and Air Conditioning
+- IMC: Integrated Marketing Communications
+- KOC: Key Opinion Consumer
+- KPI: Key Performance Indicator
+- MEP: Mechanical, Electrical, and Plumbing systems
+- POEM: Paid–Owned–Earned Media
+- ROI: Return on Investment
+- SKU: Stock Keeping Unit
+- STP: Segmentation–Targeting–Positioning
+- UGC: User-Generated Content
+- YoY: Year-over-Year
+
+## Ariticifial Intelligene Declaration
+
+This project acknowledges the use of Artificial Intelligence (AI) tools, specifically ChatGPT (OpenAI), to support the language refinement of the report. AI was used solely for:
+
+- Improving grammar, clarity, and readability.
+- Providing suggestions on tone and style to ensure accessibility.
+
+AI was not used to generate research data, synthesize original content, or create analysis and recommendations. All findings, insights, and strategic proposals are the result of the authors’ own research, supported by market data, interviews, and academic frameworks.
+
+This declaration confirms that the project remains an original piece of academic work, with AI serving only as a writing assistant to improve presentation.
+
+## Plagiarism Check Statement
+
+This project has been screened using iThenticate plagiarism detection software in compliance with the academic integrity standards of the Solvay Brussels School of Economics and Management. The similarity index was under 1%.
+
+The report confirms that this work is original and properly referenced according to academic guidelines. Please [view Plagiarism Report here](report.pdf)

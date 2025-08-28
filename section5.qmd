@@ -246,22 +246,22 @@ Milwaukee’s influencer strategy in Vietnam emphasizes authenticity and educati
 
 Milwaukee Vietnam is preparing to launch the One-Key™ app, a smart tool management platform that connects cordless tools to smartphones via Bluetooth. This platform opens a gateway for Artificial Intelligence (AI) integration, enhancing tool usage, personalizing customer engagement, and reinforcing Milwaukee’s tech-forward image. By embedding AI into product use and customer engagement, Milwaukee reinforces its differentiation as a tech-forward premium brand, deepens loyalty, and creates data-driven pathways for continuous innovation. [Table 12](#tb12) indicates the key roadmap for One-Key™ app.
 
-::: {tab-AIapp}
+::: {.tbl-colwidths="[25,20,55]"}
 <a id="tb12"></a>*Table 12. AI integration roadmap*
 
-| **AI Area**                                                  | **Application**                    | **Description / Purpose**                                                                                         |
-| ------------------------------------------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **Product Intelligence & Personalization (via One-Key™)** | Torque Optimization Suggestions    | AI analyzes usage patterns and recommends optimal power presets for different trades (e.g., HVAC vs. electrical). |
-|                                                              | Preventive Maintenance             | Predictive alerts notify users of stress/overheating, extending tool lifespan.                                    |
-|                                                              | Smart Job Reports                  | Automated summaries (time, power, battery efficiency) help professionals quote clients more accurately.           |
-|                                                              | Tailored Training Content          | Pushes tutorials, FAQs, and feature reminders based on actual usage habits.                                       |
-| **AI-powered Marketing & Engagement**                     | Behavior-Based Promotions          | Deliver promotions for accessories or upgrades based on tool usage.                                               |
-|                                                              | Smart Retargeting & Loyalty Nudges | Segment users by profession/project type and send relevant content or bundles.                                    |
-|                                                              | Gamification & Leaderboards        | Track tool mastery; award “Pro Board” rankings or digital badges to boost engagement.                             |
-|                                                              | Feedback Loops for NPD             | Aggregate usage data informs R\&D about unmet needs and local pain points.                                        |
-| **Future Potential**                                      | Voice-Based Assistant              | Hands-free support for tool usage on job sites.                                                                   |
-|                                                              | AI Chatbot                         | Provide on-site troubleshooting and warranty support in real time.                                                |
-|                                                              | Augmented Reality Overlays         | Offer “how-to” usage instructions directly over tool view.                                                        |
+| **AI Area**                                | **Application**                  | **Description / Purpose**                                                                                         |
+|--------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Product Intelligence & Personalization (via One-Key™)** | Torque Optimization Suggestions | AI analyzes usage patterns and recommends optimal power presets for different trades (e.g., HVAC vs. electrical). |
+|                                            | Preventive Maintenance           | Predictive alerts notify users of stress/overheating, extending tool lifespan.                                    |
+|                                            | Smart Job Reports                | Automated summaries (time, power, battery efficiency) help professionals quote clients more accurately.           |
+|                                            | Tailored Training Content        | Pushes tutorials, FAQs, and feature reminders based on actual usage habits.                                       |
+| **AI-powered Marketing & Engagement**      | Behavior-Based Promotions        | Deliver promotions for accessories or upgrades based on tool usage.                                               |
+|                                            | Smart Retargeting & Loyalty Nudges | Segment users by profession/project type and send relevant content or bundles.                                   |
+|                                            | Gamification & Leaderboards      | Track tool mastery; award “Pro Board” rankings or digital badges to boost engagement.                             |
+|                                            | Feedback Loops for NPD           | Aggregate usage data informs R&D about unmet needs and local pain points.                                         |
+| **Future Potential**                       | Voice-Based Assistant            | Hands-free support for tool usage on job sites.                                                                   |
+|                                            | AI Chatbot                       | Provide on-site troubleshooting and warranty support in real time.                                                |
+|                                            | Augmented Reality Overlays       | Offer “how-to” usage instructions directly over tool view.                                                        |
 
 :::
 
@@ -284,16 +284,18 @@ Milwaukee’s execution plan will be rolled out across four quarters, ensuring m
 
 This sequence ensures that awareness is first established, then converted into trial, and finally sustained through loyalty and advocacy.
 
-::: {#tab-quarterly}
+::: {.tbl-colwidths="[10,15,30,15,30]"}
 <a id="tb13"></a>*Table 13. Quarterly campaign plan*
 
 | **Quarter** | **Campaign** | **Main & Sub-Audiences** | **Channels** | **Tactics** |
-|-|---|---|---|---|
-| **Q1** | RedStories — *Real Glories* | • Main: 25–45 y/o male workers <br> • Sub: Aspiring team leads | YouTube; Facebook; TikTok | • Docu-style storytelling <br> • Customer transformation highlights <br> • Safety & speed focus |
-| **Q2** | RedTest — *RedBest* | • Main: Mid-career technicians <br> • Sub: Jobsite users skeptical of cordless tools | On-ground activations; Facebook Live; TikTok | • Mobile demo trucks <br> • Timed tool competitions <br> • Rewards: rental vouchers, social shoutouts |
-| **Q3** | RedTrade — *Real Upgrade* | • Main: Budget-sensitive tool users <br> • Sub: Legacy gas/electric users | POS; Facebook Ads; Zalo; CRM | • Trade-in program <br> • Bundled starter kits <br> • Zalo onboarding push |
-| **Q4** | RedVoice — *Your Choice* | • Main: Facebook/TikTok-active blue-collar workers <br> • Sub: Peer influencer technicians | Owned social; user-generated content | • UGC campaigns (video tips/reviews) <br> • Content boosting for reach <br> • Community voting |
-| **Q4** | RedTalk Live | • Main: CRM leads & active users <br> • Sub: Loyalists; site-level advocates | Zalo; Facebook Live | • Weekly mini tutorials <br> • Tool hacks & maintenance advice <br> • Hosted by trade KOLs |
+|-------------|--------------|---------------------------|--------------|-------------|
+| **Quarter 1** | RedStories — *Real Glories* | • Main: 25–45 y/o male workers <br> • Sub: Aspiring team leads | YouTube; Facebook; TikTok | • Docu-style storytelling <br> • Customer transformation highlights <br> • Safety & speed focus |
+| **Quarter 2** | RedTest — *RedBest* | • Main: Mid-career technicians <br> • Sub: Jobsite users skeptical of cordless tools | On-ground activations; Facebook Live; TikTok | • Mobile demo trucks <br> • Timed tool competitions <br> • Rewards: rental vouchers, social shoutouts |
+| **Quarter 3** | RedTrade — *Real Upgrade* | • Main: Budget-sensitive tool users <br> • Sub: Legacy gas/electric users | POS; Facebook Ads; Zalo; CRM | • Trade-in program <br> • Bundled starter kits <br> • Zalo onboarding push |
+| **Quarter 4** | RedVoice — *Your Choice* | • Main: Facebook/TikTok-active blue-collar workers <br> • Sub: Peer influencer technicians | Owned social; user-generated content | • UGC campaigns (video tips/reviews) <br> • Content boosting for reach <br> • Community voting |
+| **Quarter 4** | RedTalk Live | • Main: CRM leads & active users <br> • Sub: Loyalists; site-level advocates | Zalo; Facebook Live | • Weekly mini tutorials <br> • Tool hacks & maintenance advice <br> • Hosted by trade KOLs |
+:::
+
 
 :::
 

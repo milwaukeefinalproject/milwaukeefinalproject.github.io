@@ -44,3 +44,24 @@
 /* Paragraph alignment (keep yours) */
 p { text-align: justify; }
 .center-text p { text-align: center !important; }
+
+.profile-card{
+  text-align:center;
+  background:#ffffff;
+  padding:16px 18px;
+  border-radius:12px;
+  box-shadow:0 2px 8px rgba(0,0,0,.08);
+}
+.profile-card .avatar{
+  width:160px; max-width:60%;
+  aspect-ratio:1/1;
+  object-fit:cover;
+  border-radius:50%;
+  border:4px solid #C8102E;
+  margin-bottom:10px;
+}
+.profile-card h3{ margin:8px 0 2px; }
+.profile-card .role{ margin:0; color:#555; font-style:italic; }
+.profile-card .company{ margin:4px 0 8px; color:#444; }
+.profile-card a{ color:#C8102E; text-decoration:none; }
+.profile-card a:hover{ text-decoration:underline; }

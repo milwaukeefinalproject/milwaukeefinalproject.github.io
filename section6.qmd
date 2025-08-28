@@ -1,0 +1,60 @@
+---
+title: "Evaluation"
+---
+
+## Key Performance Indicators
+
+To ensure alignment with Milwaukee Vietnam’s communication and business objectives, a set of Key Performance Indicators (KPIs) has been defined [(Table 14)](#tb14). These indicators span the entire funnel, from brand awareness and engagement to trial, conversion, and community building, reflecting both short-term activation and long-term equity growth. All targets are measurable, time-bound, and benchmarked against baseline data from the most recent available year (or to be updated post-pilot where no baseline exists). By integrating both quantitative impact (sales, trials, revenue) and qualitative indicators (trust, advocacy, recall), this KPI framework ensures Milwaukee’s repositioning is not only trackable but also strategically aligned with its long-term market goals in Vietnam.
+
+::: {#KPI}
+<a id="tb14"></a>*Table 14. KPI framework*
+
+| **KPI Category**     | **Metric**                                   | **Unit**        | **Baseline (Est.)** | **12-Month Target**                 |
+|-----------------------|-----------------------------------------------|-----------------|---------------------|-------------------------------------|
+| **Brand Awareness**   | Video Views (all platforms)                   | Views           | 2M                  | 10M+ total                          |
+|                       | Brand Recall Rate                            | %               | 12%                 | ≥ 25%                               |
+|                       | Ad Recall Lift (Facebook/Youtube)                       | % Lift          | —                   | +8–12% per campaign burst           |
+| **Engagement**        | Social Interactions (likes/comments/shares)  | Count           | 100K                | 400K+ total                         |
+|                       | UGC Participation (*RedVoice* / Challenges)  | Submissions     | —                   | ≥ 1,000                             |
+|                       | Demo Event Registrations                     | Registrations   | —                   | ≥ 10,000                            |
+| **Trial & Conversion**| Tool Trial Volume (offline + rental)         | Trials          | —                   | ≥ 15,000                            |
+|                       | Tool Trade-In Conversions                    | Transactions    | —                   | ≥ 2,500                             |
+|                       | Sales Lift in Cordless Tools                 | % vs. pre-campaign | —                | ≥ +30% YoY                          |
+|                       | Revenue from New Users                       | USD             | —                   | ≥ $1.5M                             |
+| **Community Building**| *RedTalk Live* Participation                 | Avg. viewers/session | —               | ≥ 3,000                             |
+|                       | CRM Lead Database Size                       | Contacts        | 5K                  | ≥ 30K qualified leads               |
+
+:::
+
+## Tracking Methods
+
+To ensure ongoing visibility into campaign performance, Milwaukee Vietnam will implement a structured tracking framework combining digital analytics, CRM data, offline reporting, and third-party surveys. Each KPI is linked to a specific tracking tool and review frequency, enabling consistent measurement and timely course correction [(Table 15)](#tb15).
+
+- Digital Analytics: Platform-native dashboards (Facebook Ads Manager, YouTube Analytics, TikTok Ads, Zalo Official Account) will track reach, engagement, and follower growth on a weekly to monthly basis.
+- Brand Tracking: Independent third-party brand surveys and platform brand lift studies will provide quarterly insights into awareness, recall, and perception shifts.
+- CRM Integration: Zalo CRM and manual form exports will consolidate lead generation, demo registrations, and RedTalk Live participation into actionable sales pipelines.
+- Offline Reporting: Dealer POS data, trade-in tracking, and rental form submissions will ensure trial and conversion activities are accurately captured.
+- Financial & Sales Data: Internal reports from Milwaukee’s distributor and finance teams will be used quarterly to validate sales lift and new revenue from acquired users.
+
+::: {tab-Tracking}
+| **KPI Category**         | **Tracking Tool / Method**                                          | **Frequency**         |
+|---------------------------|---------------------------------------------------------------------|-----------------------|
+| **Brand Awareness**       | Facebook Ads Manager, YouTube Analytics, TikTok Ads Dashboard       | Monthly               |
+| **Brand Recall**          | 3rd-Party Brand Tracking Survey                                     | Quarterly             |
+| **Ad Recall Lift**        | Facebook Brand Lift Study, YouTube Brand Lift Survey                | Per campaign burst    |
+| **Engagement**            | Native social platform analytics, Sprout Social                     | Bi-weekly             |
+| **UGC Participation**     | Manual UGC submission tracking (Google Form / Zalo entries)         | Monthly               |
+| **Demo Registrations**    | Zalo CRM system export, onsite QR scan tracking                     | Event-based           |
+| **Tool Trials**           | Offline partner report, rental form submission                      | Monthly               |
+| **Conversions & Trade-ins** | POS data from retailers, SKU redemption tracking                  | Monthly               |
+| **Sales Lift**            | Internal sales report from distributor and Milwaukee team           | Quarterly             |
+| **New User Revenue**      | Sales segmentation analysis from finance                            | Quarterly             |
+| **Zalo Follower Growth**  | Zalo Official Account Dashboard                                     | Weekly                |
+| **RedTalk Participation** | Facebook / Zalo live stream analytics                               | Monthly               |
+| **CRM Leads**             | Zalo CRM, manual form exports                                       | Monthly               |
+:::
+
+
+By integrating these methods, Milwaukee establishes a 360-degree monitoring system across the entire customer journey. This approach not only ensures accurate evaluation against KPIs but also provides real-time insights for optimization, allowing campaigns to be adjusted dynamically to maximize impact.
+
+
