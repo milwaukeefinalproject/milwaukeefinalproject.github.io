@@ -6,7 +6,7 @@ title: "Evaluation"
 
 To ensure alignment with Milwaukee Vietnam’s communication and business objectives, a set of Key Performance Indicators (KPIs) has been defined [(Table 14)](#tb14). These indicators span the entire funnel, from brand awareness and engagement to trial, conversion, and community building, reflecting both short-term activation and long-term equity growth. All targets are measurable, time-bound, and benchmarked against baseline data from the most recent available year (or to be updated post-pilot where no baseline exists). By integrating both quantitative impact (sales, trials, revenue) and qualitative indicators (trust, advocacy, recall), this KPI framework ensures Milwaukee’s repositioning is not only trackable but also strategically aligned with its long-term market goals in Vietnam.
 
-::: {#KPI}
+:::{#KPI}
 <a id="tb14"></a>*Table 14. KPI framework*
 
 | **KPI Category**     | **Metric**                                   | **Unit**        | **Baseline (Est.)** | **12-Month Target**                 |
@@ -37,6 +37,8 @@ To ensure ongoing visibility into campaign performance, Milwaukee Vietnam will i
 - Financial & Sales Data: Internal reports from Milwaukee’s distributor and finance teams will be used quarterly to validate sales lift and new revenue from acquired users.
 
 ::: {tab-Tracking}
+<a id="tb15"></a>*Table 15. Tracking Methods*
+
 | **KPI Category**         | **Tracking Tool / Method**                                          | **Frequency**         |
 |---------------------------|---------------------------------------------------------------------|-----------------------|
 | **Brand Awareness**       | Facebook Ads Manager, YouTube Analytics, TikTok Ads Dashboard       | Monthly               |
@@ -52,6 +54,7 @@ To ensure ongoing visibility into campaign performance, Milwaukee Vietnam will i
 | **Zalo Follower Growth**  | Zalo Official Account Dashboard                                     | Weekly                |
 | **RedTalk Participation** | Facebook / Zalo live stream analytics                               | Monthly               |
 | **CRM Leads**             | Zalo CRM, manual form exports                                       | Monthly               |
+
 :::
 
 

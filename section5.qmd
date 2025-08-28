@@ -294,8 +294,6 @@ This sequence ensures that awareness is first established, then converted into t
 | **Quarter 3** | RedTrade — *Real Upgrade* | • Main: Budget-sensitive tool users <br> • Sub: Legacy gas/electric users | POS; Facebook Ads; Zalo; CRM | • Trade-in program <br> • Bundled starter kits <br> • Zalo onboarding push |
 | **Quarter 4** | RedVoice — *Your Choice* | • Main: Facebook/TikTok-active blue-collar workers <br> • Sub: Peer influencer technicians | Owned social; user-generated content | • UGC campaigns (video tips/reviews) <br> • Content boosting for reach <br> • Community voting |
 | **Quarter 4** | RedTalk Live | • Main: CRM leads & active users <br> • Sub: Loyalists; site-level advocates | Zalo; Facebook Live | • Weekly mini tutorials <br> • Tool hacks & maintenance advice <br> • Hosted by trade KOLs |
-:::
-
 
 :::
 

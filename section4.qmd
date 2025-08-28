@@ -9,7 +9,6 @@ Milwaukee’s communication strategy in Vietnam is guided by broader growth path
 ::: {#tab-BLF}
 <a id="tb4"></a>*Table 4. Ansoff matrix*
 
-
 | **Strategy Type**         | **Application to Milwaukee Vietnam**                                                                 |
 |-----------------------|-------------------------------------------------------------------------------------------------|
 | **Market Penetration** | Focus on converting professional users (e.g., HVAC, electricians) via promotions, demos, and trials. |
