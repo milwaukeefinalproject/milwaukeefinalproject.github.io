@@ -15,7 +15,7 @@ A special note of thanks goes to our mentors, Mr. Hoang Thai (Product Brand Mana
 ::: {.columns}
 ::: {.column width="50%"}
 <div class="profile-card">
-  <img src="image/huong.png" alt="Phan Ngoc Quynh Huong" class="avatar">
+  <img src="image/vo.png" alt="Phan Ngoc Quynh Huong" class="avatar">
   <h3>Phan Ngoc Quynh Huong</h3>
   <p class="role">Marketing Manager</p>
   <p class="company">PRIMA Jewelry Vietnam</p>
