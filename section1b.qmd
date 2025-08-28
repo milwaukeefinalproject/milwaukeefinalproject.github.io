@@ -21,19 +21,20 @@ A special note of thanks goes to our mentors, Mr. Hoang Thai (Product Brand Mana
   <p class="company">PRIMA Jewelry Vietnam</p>
   <p>
     <a href="mailto:pnq.huong0111@gmail.com">pnq.huong0111@gmail.com</a><br>
-    <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+    📞 <a href="tel:+84778690087">+84 77 869 0087</a>
   </p>
 </div>
 :::
 
 ::: {.column width="50%"}
 <div class="profile-card">
-  <img src="image/milwaukeelg.png" alt="Tran Thi Thanh Ha" class="avatar">
+  <img src="image/ha.png" alt="Tran Thi Thanh Ha" class="avatar">
   <h3>Tran Thi Thanh Ha</h3>
-  <p class="role">[Occupation]</p>
-  <p class="company">[Company]</p>
+  <p class="role">Marketing Communication Specialist</p>
+  <p class="company">Mar.Com Dept - Coteccons</p>
   <p>
-    <a href="mailto:[email@example.com]">[email@example.com]</a>
+    <a href="mailto:traan.thanhha@gmail.com">traan.thanhha@gmail.com</a>
+    📞 <a href="tel:+84938781479">+84 938 781 479</a>
   </p>
 </div>
 :::

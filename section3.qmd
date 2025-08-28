@@ -112,14 +112,16 @@ Milwaukee competes in Vietnam’s premium cordless tools segment, which remains 
 
 To complement secondary data, we conducted semi-structured interviews with five Milwaukee Vietnam managers between 1 April and 11 April 2025. The participants included:
 
-1. Ms Jane Pham - Commercial Director ([thibaouyen.pham@ttigroup.com.vn](mailto:thibaouyen.pham@ttigroup.com.vn))
-2. Mr. Minh Pham - South Region Manager ([ngocminh.pham@ttigroup.com.vn](mailto:ngocminh.pham@ttigroup.com.vn))
-3. Mrs. Ruby Tran - North Region Manager ([thiminhngoc.tran@ttigroup.com.vn](mailto:thiminhngoc.tran@ttigroup.com.vn))
-4. Mr. Hoang Thai - Product Brand Manager ([minhhoang.thai@ttigroup.com.vn](mailto:minhhoang.thai@ttigroup.com.vn))
-5. Mr. David Lam - Assistant Marketing Manager ([phangiauy.lam@ttigroup.com.vn](mailto:phangiauy.lam@ttigroup.com.vn))
+1. Ms Jane Pham - Commercial Director ([thibaouyen.pham@ttigroup.com](mailto:thibaouyen.pham@ttigroup.com))
+2. Mr. Minh Pham - South Region Manager ([ngocminh.pham@ttigroup.com](mailto:ngocminh.pham@ttigroup.com))
+3. Mrs. Ruby Tran - North Region Manager ([thiminhngoc.tran@ttigroup.com](mailto:thiminhngoc.tran@ttigroup.com))
+4. Mr. Hoang Thai - Product Brand Manager ([minhhoang.thai@ttigroup.com](mailto:minhhoang.thai@ttigroup.com))
+5. Mr. David Lam - Assistant Marketing Manager ([phangiauy.lam@ttigroup.com](mailto:phangiauy.lam@ttigroup.com))
 
 
 The interviews were conducted in person, transcribed into text, and coded using NVivo software. The analysis followed an action research methodology, where insights from internal stakeholders were used to diagnose current challenges and shape practical solutions. Transcripts were also processed in RStudio to identify recurring keywords and sentiment clusters, ensuring reliability in theme generation.
+
+![Semi-structured interview with Mr. Hoang Thai](image/interview.png){#pm1 width="70%" fig-align="center"}
 
 **Interview guide**
 
