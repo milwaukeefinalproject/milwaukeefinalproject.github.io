@@ -13,7 +13,7 @@ website:
         text: Home
       - section1.qmd
       - section1b.qmd
-      - section 1c.qmd
+      - section1c.qmd
       - section2.qmd
       - section3.qmd
       - section4.qmd
