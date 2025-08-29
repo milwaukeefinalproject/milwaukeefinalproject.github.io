@@ -30,5 +30,5 @@ Students: Phan Ngoc Quynh Huong & Tran Thi Thanh Ha
 </p>
 </div>
 
-{{< video https://www.youtube.com/embed/eU-aIi92AcM?start=38 width=560 height=315 >}}
+{{< video https://www.youtube.com/embed/eU-aIi92AcM width=560 height=315 >}}
 
