@@ -6,7 +6,6 @@ title: "Academic Integrity"
 
 - AI: Artificial Intelligence
 - B2B: Business-to-Business
-- CRM: Customer Relationship Management
 - HVAC: Heating, Ventilation, and Air Conditioning
 - IMC: Integrated Marketing Communications
 - KOC: Key Opinion Consumer

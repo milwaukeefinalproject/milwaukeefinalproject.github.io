@@ -22,17 +22,17 @@ To ensure alignment with Milwaukee Vietnam’s communication and business object
 |                       | Sales Lift in Cordless Tools                 | % vs. pre-campaign | —                | ≥ +30% YoY                          |
 |                       | Revenue from New Users                       | USD             | —                   | ≥ $1.5M                             |
 | **Community Building**| *RedTalk Live* Participation                 | Avg. viewers/session | —               | ≥ 3,000                             |
-|                       | CRM Lead Database Size                       | Contacts        | 5K                  | ≥ 30K qualified leads               |
+|                       | Lead Database Size                       | Contacts        | 5K                  | ≥ 30K qualified leads               |
 
 :::
 
 ## Tracking Methods
 
-To ensure ongoing visibility into campaign performance, Milwaukee Vietnam will implement a structured tracking framework combining digital analytics, CRM data, offline reporting, and third-party surveys. Each KPI is linked to a specific tracking tool and review frequency, enabling consistent measurement and timely course correction [(Table 15)](#tb15).
+To ensure ongoing visibility into campaign performance, Milwaukee Vietnam will implement a structured tracking framework combining digital analytics, offline reporting, and third-party surveys. Each KPI is linked to a specific tracking tool and review frequency, enabling consistent measurement and timely course correction [(Table 15)](#tb15).
 
 - Digital Analytics: Platform-native dashboards (Facebook Ads Manager, YouTube Analytics, TikTok Ads, Zalo Official Account) will track reach, engagement, and follower growth on a weekly to monthly basis.
 - Brand Tracking: Independent third-party brand surveys and platform brand lift studies will provide quarterly insights into awareness, recall, and perception shifts.
-- CRM Integration: Zalo CRM and manual form exports will consolidate lead generation, demo registrations, and RedTalk Live participation into actionable sales pipelines.
+- Zalo communication: Manual form exports will consolidate lead generation, demo registrations, and RedTalk Live participation into actionable sales pipelines.
 - Offline Reporting: Dealer POS data, trade-in tracking, and rental form submissions will ensure trial and conversion activities are accurately captured.
 - Financial & Sales Data: Internal reports from Milwaukee’s distributor and finance teams will be used quarterly to validate sales lift and new revenue from acquired users.
 
@@ -46,14 +46,14 @@ To ensure ongoing visibility into campaign performance, Milwaukee Vietnam will i
 | **Ad Recall Lift**        | Facebook Brand Lift Study, YouTube Brand Lift Survey                | Per campaign burst    |
 | **Engagement**            | Native social platform analytics, Sprout Social                     | Bi-weekly             |
 | **UGC Participation**     | Manual UGC submission tracking (Google Form / Zalo entries)         | Monthly               |
-| **Demo Registrations**    | Zalo CRM system export, onsite QR scan tracking                     | Event-based           |
+| **Demo Registrations**    | Zalo export, onsite QR scan tracking                     | Event-based           |
 | **Tool Trials**           | Offline partner report, rental form submission                      | Monthly               |
 | **Conversions & Trade-ins** | POS data from retailers, SKU redemption tracking                  | Monthly               |
 | **Sales Lift**            | Internal sales report from distributor and Milwaukee team           | Quarterly             |
 | **New User Revenue**      | Sales segmentation analysis from finance                            | Quarterly             |
 | **Zalo Follower Growth**  | Zalo Official Account Dashboard                                     | Weekly                |
 | **RedTalk Participation** | Facebook / Zalo live stream analytics                               | Monthly               |
-| **CRM Leads**             | Zalo CRM, manual form exports                                       | Monthly               |
+| **Zalo Leads**             | Manual form exports                                       | Monthly               |
 
 :::
 

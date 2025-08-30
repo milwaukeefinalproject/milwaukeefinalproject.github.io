@@ -12,6 +12,8 @@ Despite the prosperous market, Milwaukee faces three key barriers in this market
 
 This project is designed to address those gaps. Its aim is to reposition Milwaukee as a premium American brand in Vietnam. The focus is on shifting attention from price to long-term value, correcting origin confusion, and strengthening trust among professional users. Achieving this will allow Milwaukee to capture growth, build stronger dealer networks, and secure a leading position in the market.
 
+Milwaukee operates in Vietnam through a B2B2C model, working with 58 distributors and 124 sub-dealers to reach end users. Dealers are the primary gateway to professionals such as HVAC contractors, electricians, and infrastructure teams. This structure makes dealer trust and engagement critical for brand success, since their recommendations heavily influence purchasing decisions. At the same time, Milwaukee must also build direct connections with end users to strengthen loyalty and reinforce the brand’s value proposition beyond price.
+
 Below is an interactive map showing Milwaukee Tools’ presence:
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE}

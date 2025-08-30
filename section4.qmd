@@ -144,7 +144,7 @@ While the channel mix is structured around Milwaukee’s three strategic pillars
 |---------------------|----------------------|---------------------|
 | **Awareness**       | • TikTok <br> • YouTube Ads <br> • Facebook Ads | • Capture attention, build top-of-mind awareness, and spark curiosity. |
 | **Consideration**   | • YouTube reviews <br> • Zalo groups <br> • Influencers | • Provide education, peer validation, and product comparisons. |
-| **Purchase**        | • Facebook retargeting <br> • Zalo CRM <br> • Retail demos | • Trigger conversion through targeted offers, demos, and trade-ins. |
+| **Purchase**        | • Facebook retargeting <br> • Zalo communication <br> • Retail demos | • Trigger conversion through targeted offers, demos, and trade-ins. |
 | **Loyalty/Advocacy**| • FB Groups <br> • Zalo push <br> • Milwaukee Pro Club | • Sustain engagement, encourage UGC, and nurture community advocacy. |
 
 ::: 
